@@ -1,0 +1,80 @@
+{
+ "run_id": "20261101-31b-kaggle-merge40-s1",
+ "date": "2026-11-01",
+ "model": "31b-qat-w4a16",
+ "backend": "vllm-kaggle",
+ "subset": "dev20",
+ "seed": 1,
+ "parent_run_id": "20261101-31b-kaggle-merge40-s0",
+ "config_diff": "Repeat (index 1) of merge + 40-call cap",
+ "n_tasks": 20,
+ "n_resolved": 11,
+ "resolve_rate": 0.55,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 0.9,
+ "timeout_rate": 0.05,
+ "tool_error_rate": 0.0956,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 1.0,
+ "stop_reasons": {
+  "submit": 18,
+  "ended": 1,
+  "timeout": 1
+ },
+ "turns": {
+  "mean": 28.05,
+  "median": 26.5
+ },
+ "tool_calls": {
+  "mean": 27.2,
+  "median": 26.0
+ },
+ "prompt_tokens": {
+  "mean": 246985.55,
+  "median": 225501.0
+ },
+ "completion_tokens": {
+  "mean": 6970.0,
+  "median": 6011.5
+ },
+ "wall_s": {
+  "mean": 256.79,
+  "median": 223.29000000000002
+ },
+ "peak_context_tokens": {
+  "mean": 14079.95,
+  "median": 14525.0
+ },
+ "tool_usage": {
+  "run_command": 221,
+  "read_file": 200,
+  "edit_file": 80,
+  "submit_patch": 40,
+  "get_status": 3
+ },
+ "edit_file_failure_rate": 0.175,
+ "repro_run_rate": 0.75,
+ "repro_after_edit_rate": 0.7,
+ "pytest_run_rate": 0.05,
+ "function_hit_rate": 1.0,
+ "graph_call_rate": 0.0,
+ "neighbor_calls_per_task": 0.0,
+ "fewer_files_than_gold": 4,
+ "resolved_by_traceback": {
+  "has_traceback": "2/2",
+  "no_traceback": "9/18"
+ },
+ "resolved_ids": [
+  "fastapi_14303",
+  "fastapi_14430",
+  "fastapi_14463",
+  "fastapi_14485",
+  "fastapi_14605",
+  "fastapi_5077",
+  "requests_6644",
+  "rich_2725",
+  "rich_3006",
+  "rich_3480",
+  "rich_3676"
+ ]
+}

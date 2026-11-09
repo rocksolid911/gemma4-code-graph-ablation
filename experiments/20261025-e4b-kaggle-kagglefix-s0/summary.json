@@ -1,0 +1,73 @@
+{
+ "run_id": "20261025-e4b-kaggle-kagglefix-s0",
+ "date": "2026-10-25",
+ "model": "e4b-qat-w4a16",
+ "backend": "vllm-kaggle",
+ "subset": "dev20",
+ "seed": 0,
+ "parent_run_id": "20261024-31b-kaggle-kagglefix-s0",
+ "config_diff": "Same kagglefix config with model gemma-4-e4b-it-qat-w4a16-ct",
+ "n_tasks": 20,
+ "n_resolved": 3,
+ "resolve_rate": 0.15,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 1.0,
+ "timeout_rate": 0.0,
+ "tool_error_rate": 0.1805,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 0.85,
+ "stop_reasons": {
+  "submit": 20
+ },
+ "turns": {
+  "mean": 14.3,
+  "median": 11.5
+ },
+ "tool_calls": {
+  "mean": 13.3,
+  "median": 10.5
+ },
+ "prompt_tokens": {
+  "mean": 133873.9,
+  "median": 105360.5
+ },
+ "completion_tokens": {
+  "mean": 6536.15,
+  "median": 4888.0
+ },
+ "wall_s": {
+  "mean": 100.64,
+  "median": 78.94999999999999
+ },
+ "peak_context_tokens": {
+  "mean": 14095.1,
+  "median": 14788.5
+ },
+ "tool_usage": {
+  "search_similar_code": 47,
+  "read_file": 98,
+  "edit_file": 61,
+  "submit_patch": 22,
+  "run_command": 30,
+  "write_file": 3,
+  "get_code_subgraph": 3,
+  "get_code_neighbors": 2
+ },
+ "edit_file_failure_rate": 0.5082,
+ "repro_run_rate": 0.0,
+ "repro_after_edit_rate": 0.0,
+ "pytest_run_rate": 0.5,
+ "function_hit_rate": 0.45,
+ "graph_call_rate": 0.1955,
+ "neighbor_calls_per_task": 0.25,
+ "fewer_files_than_gold": 7,
+ "resolved_by_traceback": {
+  "has_traceback": "0/2",
+  "no_traceback": "3/18"
+ },
+ "resolved_ids": [
+  "fastapi_14463",
+  "requests_6644",
+  "rich_3006"
+ ]
+}

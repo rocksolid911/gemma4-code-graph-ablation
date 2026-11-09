@@ -1,0 +1,10 @@
+{"turn": 1, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 3832, "completion_tokens": 157, "thinking_tokens": 81, "elapsed_s": 23.923830270767212}
+{"turn": 1, "role": "text", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 23.923830270767212}
+{"turn": 1, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 232, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 23.923830270767212}
+{"turn": 2, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 967, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 30.349064350128174}
+{"turn": 3, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 444, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 110.91969156265259}
+{"turn": 4, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 80, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 116.95361471176147}
+{"turn": 5, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 562, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 121.15210318565369}
+{"turn": 6, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 124.2519781589508}
+{"turn": 7, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 6966, "completion_tokens": 100, "thinking_tokens": 19, "elapsed_s": 129.02357053756714}
+{"turn": 7, "role": "final", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 129.02357053756714}

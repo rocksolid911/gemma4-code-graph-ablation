@@ -1,0 +1,22 @@
+# Root agent for the Gemma 4 Developer Agent competition.
+# Declarative only: no Python entrypoints. The tools are provided by the swegemma harness, but only
+# the ones listed under `tools:` are offered to the model (none listed = the model can't act at all).
+# Format per docs/context.md ("Submission format").
+
+name: issue_fixer
+description: Fixes a single Python GitHub issue in /workspace and submits a minimal patch.
+model: gemma-4-31b-it-qat-w4a16-ct
+
+# The harness sends the issue (and any hints) in the first user message, so the prompt doesn't template them.
+instruction: !include prompts/system.md
+
+tools:
+  - run_command
+  - read_file
+  - edit_file
+  - write_file
+  - get_status
+  - submit_patch
+  # E4 "off" arm: code-graph tools removed.
+
+generate_content_config: !include configs/sampling.yaml

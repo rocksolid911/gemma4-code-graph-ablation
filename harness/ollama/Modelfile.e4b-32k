@@ -1,0 +1,8 @@
+# Gemma 4 E4B QAT with the competition's 32k context (Ollama's default context is much smaller and
+# can't be raised per request through the OpenAI-compatible endpoint).
+#   ollama create gemma4-e4b-32k -f harness/ollama/Modelfile.e4b-32k
+FROM gemma4:e4b-it-qat
+PARAMETER num_ctx 32768
+# Ollama ignores the request's max_tokens, so cap generation here to match configs/sampling.yaml
+# max_output_tokens. Without it one runaway thinking turn ran for 9+ minutes.
+PARAMETER num_predict 6144

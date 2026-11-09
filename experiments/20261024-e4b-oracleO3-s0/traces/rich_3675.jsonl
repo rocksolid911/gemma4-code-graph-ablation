@@ -1,0 +1,12 @@
+{"turn": 1, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 4431, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 19.49922490119934}
+{"turn": 2, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 5259, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 24.620068311691284}
+{"turn": 3, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 5097, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 28.97750473022461}
+{"turn": 4, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 5308, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 32.89345693588257}
+{"turn": 5, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 7531, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 39.75258541107178}
+{"turn": 6, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 7531, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 68.39042234420776}
+{"turn": 7, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 663, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 110.31431365013123}
+{"turn": 8, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 132.70543479919434}
+{"turn": 9, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 134.6660816669464}
+{"turn": 10, "role": "tool_call", "tool_name": "run_command", "tool_ok": false, "tool_result_chars": 596, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 142.90741348266602}
+{"turn": 11, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 146.4716672897339}
+{"turn": 12, "role": "final", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 20007, "completion_tokens": 160, "thinking_tokens": null, "elapsed_s": 151.79744005203247}

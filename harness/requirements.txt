@@ -1,0 +1,9 @@
+# .venv-harness (Python 3.12). Official wheels come from data/wheelhouse (Kaggle: metric/gemma-4-developer-agent-wheelhouse):
+#   uv pip install --python .venv-harness --find-links data/wheelhouse -r harness/requirements.txt
+swegemma==0.2.11
+adk-submission==0.2.13
+adk-eval-core==0.1.0
+google-adk==1.36.1
+google-genai==2.11.0
+# litellm >= 1.106 imports mcp.types.CacheableResult, which no mcp<2 has (google-adk needs mcp<2).
+litellm==1.100.0

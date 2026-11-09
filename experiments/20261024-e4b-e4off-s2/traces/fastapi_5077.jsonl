@@ -1,0 +1,10 @@
+{"turn": 1, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 51.951454401016235}
+{"turn": 2, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 4952, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 60.9439959526062}
+{"turn": 3, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 137, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 67.09658575057983}
+{"turn": 4, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 4155, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 70.29081916809082}
+{"turn": 5, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 600, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 104.88208532333374}
+{"turn": 6, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 110.13278460502625}
+{"turn": 7, "role": "tool_call", "tool_name": "run_command", "tool_ok": false, "tool_result_chars": 913, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 113.95502352714539}
+{"turn": 8, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 124.80238032341003}
+{"turn": 9, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 126.58218836784363}
+{"turn": 10, "role": "final", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 11261, "completion_tokens": 148, "thinking_tokens": null, "elapsed_s": 130.83976912498474}

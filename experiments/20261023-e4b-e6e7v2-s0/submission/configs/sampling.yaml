@@ -1,0 +1,10 @@
+# generate_content_config, pulled into agent.yaml via !include.
+# Hard caps: max_output_tokens and thinking_budget <= 32,768, and both share the 32k context.
+# vLLM rejects a request when prompt + max_output_tokens > 32,768, so a smaller cap leaves more room for history.
+# top_p / include_thoughts match the sample submission and public configs that score on the leaderboard.
+temperature: 0.2
+top_p: 0.95
+max_output_tokens: 6144
+thinking_config:
+  thinking_budget: 2048        # short thinking avoids truncated tool calls on big edits
+  include_thoughts: true

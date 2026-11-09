@@ -1,0 +1,13 @@
+# swegemma --models-yaml for local runs: every competition alias goes to Ollama's Gemma 4 E4B (QAT).
+# Model gemma4-e4b-32k comes from harness/ollama/Modelfile.e4b-32k.
+# The submission keeps declaring the real model name; only the local endpoint changes.
+# Caveat: Ollama ignores max_tokens and has no thinking budget, so local runs are a rough proxy.
+models:
+  gemma-4-31b-it-qat-w4a16-ct:
+    path: openai/gemma4-e4b-32k
+    api_base: http://localhost:11434/v1
+    api_key: ollama
+  gemma-4-e4b-it-qat-w4a16-ct:
+    path: openai/gemma4-e4b-32k
+    api_base: http://localhost:11434/v1
+    api_key: ollama

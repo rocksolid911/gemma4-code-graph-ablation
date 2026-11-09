@@ -1,0 +1,10 @@
+{"turn": 1, "role": "tool_call", "tool_name": "search_similar_code", "tool_ok": true, "tool_result_chars": 3502, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 20.357330560684204}
+{"turn": 2, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 4766, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 24.67325782775879}
+{"turn": 3, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 607, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 51.76410412788391}
+{"turn": 4, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 684, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 56.97338581085205}
+{"turn": 5, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 8682, "completion_tokens": 214, "thinking_tokens": 25, "elapsed_s": 62.27741026878357}
+{"turn": 6, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 678, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 122.50163388252258}
+{"turn": 7, "role": "tool_call", "tool_name": "run_command", "tool_ok": false, "tool_result_chars": 2899, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 127.73563051223755}
+{"turn": 8, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 137.7660493850708}
+{"turn": 9, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 11187, "completion_tokens": 90, "thinking_tokens": 14, "elapsed_s": 140.65248703956604}
+{"turn": 9, "role": "final", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 140.65248703956604}

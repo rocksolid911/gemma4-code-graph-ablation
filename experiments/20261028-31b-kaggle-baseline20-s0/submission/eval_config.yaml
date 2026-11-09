@@ -1,0 +1,8 @@
+# Per-task budgets, read by the scorer from `evaluation:` (HARNESS_README §7.1). Other keys are ignored.
+# The starter (1 min / 10 tool calls) is why the day-1 leaderboard was ~0.
+# The hidden set (~120 tasks) runs sequentially in 12 h, setup excluded, so ~5 min/task leaves headroom.
+evaluation:  # budgets match the top public 31B configs (LB 0.17-0.24): 8 min, 28 calls
+  max_time_minutes: 8          # agent wall-clock per task
+  timeout_seconds: 240         # per run_command call (verification pytest has its own fixed 300 s)
+  max_tool_calls: 28
+  max_turns: 80

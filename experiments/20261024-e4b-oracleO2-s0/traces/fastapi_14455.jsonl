@@ -1,0 +1,10 @@
+{"turn": 1, "role": "tool_call", "tool_name": "search_similar_code", "tool_ok": true, "tool_result_chars": 6244, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 30.37756037712097}
+{"turn": 2, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 5512, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 34.945916414260864}
+{"turn": 3, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 668, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 75.53250312805176}
+{"turn": 4, "role": "tool_call", "tool_name": "run_command", "tool_ok": false, "tool_result_chars": 9095, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 80.7874276638031}
+{"turn": 5, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 12772, "completion_tokens": 370, "thinking_tokens": 357, "elapsed_s": 96.12535285949707}
+{"turn": 5, "role": "text", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 96.12535285949707}
+{"turn": 5, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 89, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 96.12535285949707}
+{"turn": 6, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 97.89235353469849}
+{"turn": 7, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 13255, "completion_tokens": 74, "thinking_tokens": 17, "elapsed_s": 100.43970108032227}
+{"turn": 7, "role": "final", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 100.43970108032227}

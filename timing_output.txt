@@ -1,0 +1,18 @@
+31B, 28 calls: task runs 60, solved 23
+  first read of a gold file, solved / failed: 4.5 / 2.0
+  first edit, solved / failed: 10.0 / 13.0
+  calls used, solved / failed: 21.0 / 24.0
+  failed runs 37: {'gold_file_far': 3, 'no_patch': 8, 'near_gold': 24, 'other_files': 2}
+31B, 40 calls: task runs 40, solved 21
+  first read of a gold file, solved / failed: 2.0 / 2.0
+  first edit, solved / failed: 9.0 / 16.5
+  calls used, solved / failed: 18.0 / 26.0
+  failed runs 19: {'near_gold': 17, 'other_files': 1, 'no_patch': 1}
+E4B, 60 calls: task runs 100, solved 26
+  first read of a gold file, solved / failed: 2.0 / 2.0
+  first edit, solved / failed: 3.0 / 5.0
+  calls used, solved / failed: 8.0 / 12.0
+  failed runs 74: {'near_gold': 47, 'gold_file_far': 12, 'other_files': 13, 'no_patch': 2}
+31B 40-call failed runs=19 hit a call or time limit=8 stopped with budget left=11
+E4B calls quartiles=[7.0, 10.0, 18.0] of 60; exactly one successful edit=62
+E4B runs with 20+ calls=21 solved=1

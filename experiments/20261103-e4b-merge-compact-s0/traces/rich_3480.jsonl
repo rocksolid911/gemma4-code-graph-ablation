@@ -1,0 +1,15 @@
+{"turn": 1, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 3831, "completion_tokens": 150, "thinking_tokens": 76, "elapsed_s": 20.312016248703003}
+{"turn": 1, "role": "text", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 20.312016248703003}
+{"turn": 1, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 1338, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 20.312016248703003}
+{"turn": 2, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 521, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 24.549442768096924}
+{"turn": 3, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 3776, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 28.658512353897095}
+{"turn": 4, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 562, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 112.59028720855713}
+{"turn": 5, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 116.61109805107117}
+{"turn": 6, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 118.95645999908447}
+{"turn": 7, "role": "tool_call", "tool_name": "run_command", "tool_ok": false, "tool_result_chars": 622, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 122.55455684661865}
+{"turn": 8, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 60, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 125.61296367645264}
+{"turn": 9, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 86, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 127.80981874465942}
+{"turn": 10, "role": "tool_call", "tool_name": "run_command", "tool_ok": true, "tool_result_chars": 479, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 130.92122840881348}
+{"turn": 11, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 133.71240544319153}
+{"turn": 12, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 11138, "completion_tokens": 107, "thinking_tokens": 18, "elapsed_s": 136.70892095565796}
+{"turn": 12, "role": "final", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 136.70892095565796}

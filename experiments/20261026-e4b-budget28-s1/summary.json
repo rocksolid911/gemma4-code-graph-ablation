@@ -1,0 +1,71 @@
+{
+ "run_id": "20261026-e4b-budget28-s1",
+ "date": "2026-10-26",
+ "model": "e4b-qat-ollama",
+ "backend": "ollama",
+ "subset": "dev20",
+ "seed": 1,
+ "parent_run_id": "20261022-e4b-kagglefix-s0",
+ "config_diff": "Public-notebook budgets on the kagglefix config: 28 tool calls, 80 turns, 240 s per command (local cap stays 15 min)",
+ "n_tasks": 20,
+ "n_resolved": 2,
+ "resolve_rate": 0.1,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 1.0,
+ "timeout_rate": 0.0,
+ "tool_error_rate": 0.1316,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 0.9,
+ "stop_reasons": {
+  "submit": 20
+ },
+ "turns": {
+  "mean": 14.8,
+  "median": 11.5
+ },
+ "tool_calls": {
+  "mean": 13.3,
+  "median": 10.5
+ },
+ "prompt_tokens": {
+  "mean": 234584.8,
+  "median": 132403.5
+ },
+ "completion_tokens": {
+  "mean": 5801.55,
+  "median": 4953.0
+ },
+ "wall_s": {
+  "mean": 256.9,
+  "median": 184.97500000000002
+ },
+ "peak_context_tokens": {
+  "mean": 19423.7,
+  "median": 17530.0
+ },
+ "tool_usage": {
+  "search_similar_code": 39,
+  "read_file": 135,
+  "edit_file": 50,
+  "submit_patch": 20,
+  "write_file": 2,
+  "get_code_neighbors": 1,
+  "run_command": 19
+ },
+ "edit_file_failure_rate": 0.46,
+ "repro_run_rate": 0.0,
+ "repro_after_edit_rate": 0.0,
+ "pytest_run_rate": 0.45,
+ "function_hit_rate": 0.6,
+ "graph_call_rate": 0.1504,
+ "neighbor_calls_per_task": 0.05,
+ "fewer_files_than_gold": 9,
+ "resolved_by_traceback": {
+  "has_traceback": "1/2",
+  "no_traceback": "1/18"
+ },
+ "resolved_ids": [
+  "fastapi_14303",
+  "rich_3006"
+ ]
+}

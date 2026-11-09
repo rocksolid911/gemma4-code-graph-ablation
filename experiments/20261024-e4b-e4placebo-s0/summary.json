@@ -1,0 +1,76 @@
+{
+ "run_id": "20261024-e4b-e4placebo-s0",
+ "date": "2026-10-24",
+ "model": "e4b-qat-ollama",
+ "backend": "ollama",
+ "subset": "dev20",
+ "seed": 0,
+ "parent_run_id": "20261023-e4b-e6e7v2-s0",
+ "config_diff": "E4 placebo: graph tools declared but graphs/ and embeddings/ empty (data/variants/placebo), base E6+E7 v2",
+ "n_tasks": 20,
+ "n_resolved": 5,
+ "resolve_rate": 0.25,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 0.75,
+ "timeout_rate": 0.05,
+ "tool_error_rate": 0.3195,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 0.85,
+ "stop_reasons": {
+  "submit": 15,
+  "ended": 3,
+  "max_turns": 1,
+  "timeout": 1
+ },
+ "turns": {
+  "mean": 25.3,
+  "median": 19.0
+ },
+ "tool_calls": {
+  "mean": 22.85,
+  "median": 18.0
+ },
+ "prompt_tokens": {
+  "mean": 458798.5,
+  "median": 235665.5
+ },
+ "completion_tokens": {
+  "mean": 9494.5,
+  "median": 7160.5
+ },
+ "wall_s": {
+  "mean": 385.87,
+  "median": 285.645
+ },
+ "peak_context_tokens": {
+  "mean": 21486.4,
+  "median": 20446.5
+ },
+ "tool_usage": {
+  "search_similar_code": 42,
+  "read_file": 228,
+  "edit_file": 104,
+  "run_command": 58,
+  "submit_patch": 15,
+  "write_file": 10
+ },
+ "edit_file_failure_rate": 0.7019,
+ "repro_run_rate": 0.55,
+ "repro_after_edit_rate": 0.55,
+ "pytest_run_rate": 0.5,
+ "function_hit_rate": 0.5,
+ "graph_call_rate": 0.0919,
+ "neighbor_calls_per_task": 0.0,
+ "fewer_files_than_gold": 8,
+ "resolved_by_traceback": {
+  "has_traceback": "1/2",
+  "no_traceback": "4/18"
+ },
+ "resolved_ids": [
+  "fastapi_14303",
+  "fastapi_14463",
+  "requests_7309",
+  "rich_2725",
+  "rich_3006"
+ ]
+}

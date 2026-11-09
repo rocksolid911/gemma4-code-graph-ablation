@@ -1,0 +1,15 @@
+# Wheels make_eval_notebook.py expects under kaggle/test_deps/. Not included; all are on PyPI.
+common/dirty_equals-0.11-py3-none-any.whl
+common/python_multipart-0.0.32-py3-none-any.whl
+common/typing_inspection-0.4.4-py3-none-any.whl
+common/ujson-6.0.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+common/ujson-6.0.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+common/ujson-6.0.0-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+fastapi/asttokens-3.0.2-py3-none-any.whl
+fastapi/executing-2.3.0-py3-none-any.whl
+fastapi/inline_snapshot-0.36.1-py3-none-any.whl
+fastapi/markdown_it_py-4.2.0-py3-none-any.whl
+fastapi/mdurl-0.1.2-py3-none-any.whl
+fastapi/pygments-2.21.0-py3-none-any.whl
+fastapi/rich-15.0.0-py3-none-any.whl
+fastapi/typing_extensions-4.16.0-py3-none-any.whl

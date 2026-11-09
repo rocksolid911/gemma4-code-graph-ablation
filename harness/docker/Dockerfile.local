@@ -1,0 +1,11 @@
+# Local sandbox = organizers' public image + test-only deps that the scorer's private image must have but the
+# public wheel cache lacks. Build after swebench-sandbox:latest:
+#   docker build -f harness/docker/Dockerfile.local -t swebench-sandbox:local harness/docker
+FROM swebench-sandbox:latest
+# Common, --no-deps so nothing (rich, attrs, ...) lands in site-packages and shadows a repo under test.
+# pydantic 2.13 cannot import without typing-inspection.
+RUN pip install --no-cache-dir --no-deps typing-inspection dirty-equals python-multipart ujson
+# Per-repo extras live outside site-packages; harness/sandbox_fixup.py adds the matching dir to sys.path.
+# inline-snapshot is fastapi-only: its auto-loaded pytest plugin imports `attrs`, which rich's examples/attrs.py shadows.
+RUN pip install --no-cache-dir --target /opt/extras/fastapi__fastapi inline-snapshot \
+ && rm -rf /opt/extras/fastapi__fastapi/rich /opt/extras/fastapi__fastapi/pygments /opt/extras/fastapi__fastapi/bin

@@ -1,0 +1,70 @@
+{
+ "run_id": "20261101-e4b-merge-s0",
+ "date": "2026-11-01",
+ "model": "e4b-qat-ollama",
+ "backend": "ollama",
+ "subset": "dev20",
+ "seed": 0,
+ "parent_run_id": "20261024-e4b-e4off-s1",
+ "config_diff": "E4B merge: Anytime prompt (contract-first, small tool output, best-guess edit by call 8) + edit fallback after 2 failures + parallel-implementations rule + literal read_file example; write_file removed; E4B budgets (5 min / 60 calls) and sampling kept",
+ "n_tasks": 20,
+ "n_resolved": 4,
+ "resolve_rate": 0.2,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 1.0,
+ "timeout_rate": 0.0,
+ "tool_error_rate": 0.1308,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 0.85,
+ "stop_reasons": {
+  "submit": 20
+ },
+ "turns": {
+  "mean": 12.85,
+  "median": 11.5
+ },
+ "tool_calls": {
+  "mean": 11.85,
+  "median": 10.5
+ },
+ "prompt_tokens": {
+  "mean": 119908.7,
+  "median": 93303.5
+ },
+ "completion_tokens": {
+  "mean": 4561.0,
+  "median": 4373.0
+ },
+ "wall_s": {
+  "mean": 252.38,
+  "median": 226.76
+ },
+ "peak_context_tokens": {
+  "mean": 12529.8,
+  "median": 11657.0
+ },
+ "tool_usage": {
+  "run_command": 84,
+  "read_file": 78,
+  "edit_file": 55,
+  "submit_patch": 20
+ },
+ "edit_file_failure_rate": 0.4909,
+ "repro_run_rate": 0.0,
+ "repro_after_edit_rate": 0.0,
+ "pytest_run_rate": 0.6,
+ "function_hit_rate": 0.75,
+ "graph_call_rate": 0.0,
+ "neighbor_calls_per_task": 0.0,
+ "fewer_files_than_gold": 5,
+ "resolved_by_traceback": {
+  "has_traceback": "1/2",
+  "no_traceback": "3/18"
+ },
+ "resolved_ids": [
+  "fastapi_14303",
+  "fastapi_14463",
+  "requests_7309",
+  "rich_3006"
+ ]
+}

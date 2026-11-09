@@ -1,0 +1,1187 @@
+# started 2026-11-04 15:17:04; local time, temperature.gpu,power.draw,clocks.gr,utilization.gpu,memory.used,pstate,clocks_throttle_reasons.active,clocks_throttle_reasons.hw_thermal_slowdown,clocks_throttle_reasons.sw_thermal_slowdown,clocks_throttle_reasons.hw_power_brake_slowdown, then thermal zones in kelvin and CPU utility
+15:17:05, 53, 4.78 W, 210 MHz, 17 %, 905 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=78.807003
+15:17:10, 62, 16.32 W, 510 MHz, 2 %, 893 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:15, 55, 4.45 W, 210 MHz, 17 %, 893 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:20, 54, 4.27 W, 210 MHz, 17 %, 914 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:25, 56, 5.88 W, 270 MHz, 1 %, 912 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:30, 54, 4.41 W, 210 MHz, 15 %, 933 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:37, 62, 17.80 W, 2250 MHz, 1 %, 920 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=51.530155
+15:17:42, 63, 19.14 W, 2250 MHz, 9 %, 920 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:47, 68, 18.73 W, 2250 MHz, 1 %, 919 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:52, 56, 4.55 W, 210 MHz, 19 %, 919 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:17:57, 55, 4.38 W, 210 MHz, 18 %, 919 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:18:02, 55, 7.60 W, 420 MHz, 9 %, 928 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+# started 2026-11-04 15:18:21; local time, temperature.gpu,power.draw,clocks.gr,utilization.gpu,memory.used,pstate,clocks_throttle_reasons.active,clocks_throttle_reasons.hw_thermal_slowdown,clocks_throttle_reasons.sw_thermal_slowdown,clocks_throttle_reasons.hw_power_brake_slowdown, then thermal zones in kelvin and CPU utility
+15:18:22, 63, 18.11 W, 2250 MHz, 1 %, 947 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=85.526415
+15:18:27, 56, 4.55 W, 210 MHz, 22 %, 938 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:18:34, 65, 18.43 W, 2250 MHz, 0 %, 986 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=57.968315
+15:18:39, 68, 19.10 W, 2250 MHz, 1 %, 966 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:18:45, 61, 17.68 W, 2250 MHz, 1 %, 953 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=23.298556
+15:18:50, 59, 6.37 W, 240 MHz, 13 %, 949 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:18:57, 58, 4.74 W, 210 MHz, 13 %, 949 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=22.261540
+15:19:02, 61, 18.08 W, 2250 MHz, 3 %, 941 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:19:08, 59, 4.76 W, 240 MHz, 16 %, 956 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=26.311753
+15:19:13, 56, 4.55 W, 210 MHz, 12 %, 955 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:19:20, 56, 4.45 W, 210 MHz, 17 %, 935 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=21.879609
+15:19:25, 61, 8.19 W, 405 MHz, 6 %, 931 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:19:31, 56, 4.56 W, 210 MHz, 19 %, 924 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=16.807005
+15:19:36, 56, 4.38 W, 210 MHz, 22 %, 924 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:19:42, 61, 17.38 W, 2250 MHz, 1 %, 924 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=20.168005
+15:19:47, 58, 5.24 W, 255 MHz, 10 %, 939 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:19:54, 56, 4.48 W, 210 MHz, 23 %, 924 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=346.000000 Processor Information(_Total)=17.670601
+15:19:59, 55, 4.26 W, 210 MHz, 15 %, 924 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:20:05, 60, 11.64 W, 405 MHz, 6 %, 932 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=340.000000 Processor Information(_Total)=7.719747
+15:20:10, 55, 3.90 W, 210 MHz, 1 %, 932 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:20:16, 54, 4.05 W, 210 MHz, 11 %, 955 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=339.000000 Processor Information(_Total)=10.104263
+15:20:21, 54, 4.33 W, 210 MHz, 10 %, 970 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:20:28, 63, 17.78 W, 2250 MHz, 1 %, 949 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=18.770236
+15:20:33, 65, 18.13 W, 2250 MHz, 1 %, 956 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:20:39, 55, 4.35 W, 210 MHz, 15 %, 1048 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=340.000000 Processor Information(_Total)=10.741147
+15:20:44, 54, 4.38 W, 210 MHz, 12 %, 1048 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:20:51, 54, 4.54 W, 210 MHz, 22 %, 1081 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=345.000000 Processor Information(_Total)=13.426270
+15:20:56, 54, 4.33 W, 210 MHz, 21 %, 1050 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:21:02, 54, 4.93 W, 345 MHz, 26 %, 1077 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=81.379244
+15:21:07, 63, 18.32 W, 2250 MHz, 1 %, 1105 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:21:14, 56, 4.51 W, 210 MHz, 19 %, 1180 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=41.725193
+15:21:19, 57, 7.31 W, 225 MHz, 16 %, 1209 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:21:25, 56, 4.50 W, 210 MHz, 23 %, 1185 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=12.886931
+15:21:30, 55, 4.45 W, 210 MHz, 10 %, 1227 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:21:37, 55, 4.23 W, 210 MHz, 9 %, 1183 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=35.313185
+15:21:42, 55, 4.39 W, 210 MHz, 13 %, 1181 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:21:48, 55, 4.47 W, 210 MHz, 24 %, 1181 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=19.469922
+15:21:53, 67, 19.20 W, 2250 MHz, 6 %, 3955 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:21:59, 58, 4.67 W, 240 MHz, 9 %, 3959 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=14.568450
+15:22:05, 60, 9.12 W, 555 MHz, 3 %, 5709 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:22:11, 57, 4.64 W, 210 MHz, 11 %, 5726 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=96.495004
+15:22:16, 57, 4.71 W, 210 MHz, 17 %, 5726 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:22:23, 57, 4.35 W, 210 MHz, 10 %, 5784 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=32.582609
+15:22:28, 57, 4.82 W, 210 MHz, 26 %, 5780 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:22:34, 88, 62.54 W, 1920 MHz, 95 %, 5800 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=20.033375
+15:22:39, 87, 20.76 W, 210 MHz, 100 %, 5800 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:22:45, 88, 39.73 W, 1470 MHz, 95 %, 5800 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=26.193058
+15:22:51, 89, 40.54 W, 1380 MHz, 96 %, 5800 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:22:57, 89, 40.97 W, 1545 MHz, 95 %, 5800 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=21.837108
+15:23:02, 88, 37.20 W, 1530 MHz, 96 %, 5834 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:23:08, 88, 36.28 W, 1470 MHz, 96 %, 5825 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=69.545057
+15:23:14, 89, 47.57 W, 1380 MHz, 95 %, 5816 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:23:20, 90, 31.56 W, 1920 MHz, 96 %, 5814 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=21.371819
+15:23:25, 88, 35.41 W, 1275 MHz, 95 %, 5811 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:23:31, 89, 38.67 W, 1455 MHz, 96 %, 5855 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=72.306090
+15:23:36, 88, 42.74 W, 1200 MHz, 96 %, 5813 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:23:43, 89, 41.50 W, 1545 MHz, 96 %, 5810 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=32.622044
+15:23:48, 87, 20.34 W, 705 MHz, 100 %, 5810 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:23:54, 89, 38.59 W, 1560 MHz, 93 %, 5712 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=43.546163
+15:23:59, 88, 36.33 W, 1335 MHz, 95 %, 5719 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:24:06, 89, 38.86 W, 1425 MHz, 95 %, 5731 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=42.804599
+15:24:11, 88, 36.32 W, 1320 MHz, 96 %, 5729 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:24:17, 88, 36.91 W, 1335 MHz, 96 %, 5722 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=40.602183
+15:24:22, 88, 34.06 W, 1200 MHz, 95 %, 5717 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:24:29, 95, 74.32 W, 2250 MHz, 93 %, 5718 MiB, P0, 0x0000000000000048, Active, Not Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=35.062628
+15:24:34, 92, 36.68 W, 1305 MHz, 95 %, 5718 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:24:40, 78, 24.74 W, 405 MHz, 98 %, 5719 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=33.752277
+15:24:45, 77, 24.91 W, 420 MHz, 98 %, 5768 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:24:52, 75, 24.75 W, 465 MHz, 98 %, 5723 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=70.776572
+15:24:57, 76, 24.25 W, 525 MHz, 98 %, 5762 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:25:03, 75, 25.04 W, 420 MHz, 98 %, 5801 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=74.046780
+15:25:08, 75, 25.12 W, 405 MHz, 98 %, 5761 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:25:15, 74, 25.12 W, 465 MHz, 97 %, 5802 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=82.004581
+15:25:20, 75, 25.34 W, 555 MHz, 98 %, 5792 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:25:26, 74, 25.16 W, 465 MHz, 97 %, 5791 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=50.936953
+15:25:31, 74, 24.97 W, 405 MHz, 98 %, 5790 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:25:38, 74, 24.84 W, 390 MHz, 98 %, 5784 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=23.821271
+15:25:43, 73, 24.72 W, 435 MHz, 98 %, 5785 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:25:49, 73, 24.80 W, 420 MHz, 98 %, 5788 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=31.114574
+15:25:54, 74, 25.03 W, 480 MHz, 96 %, 5788 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:26:00, 73, 25.19 W, 390 MHz, 97 %, 5785 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=42.919197
+15:26:05, 74, 25.31 W, 465 MHz, 98 %, 5800 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:26:12, 73, 24.85 W, 465 MHz, 98 %, 5799 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=54.202415
+15:26:17, 73, 25.03 W, 480 MHz, 97 %, 5786 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:26:23, 73, 25.18 W, 450 MHz, 98 %, 5783 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=35.848179
+15:26:28, 73, 24.98 W, 420 MHz, 98 %, 5788 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:26:35, 73, 24.98 W, 345 MHz, 98 %, 5788 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=26.498302
+15:26:40, 73, 25.21 W, 480 MHz, 98 %, 5785 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:26:46, 73, 24.77 W, 495 MHz, 98 %, 5785 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=38.075441
+15:26:51, 73, 25.25 W, 450 MHz, 98 %, 5799 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:26:57, 73, 24.90 W, 480 MHz, 97 %, 5783 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=23.286226
+15:27:02, 73, 26.43 W, 480 MHz, 98 %, 5802 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:27:09, 73, 24.84 W, 480 MHz, 98 %, 5802 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=22.295605
+15:27:14, 72, 24.95 W, 495 MHz, 98 %, 5795 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:27:20, 72, 24.95 W, 375 MHz, 98 %, 5792 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=32.724072
+15:27:25, 72, 24.97 W, 480 MHz, 98 %, 5788 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:27:31, 73, 24.99 W, 405 MHz, 98 %, 5788 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=22.223408
+15:27:37, 72, 25.09 W, 450 MHz, 98 %, 5784 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:27:43, 73, 24.96 W, 480 MHz, 97 %, 5781 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=32.994319
+15:27:48, 73, 24.96 W, 525 MHz, 98 %, 5778 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:27:54, 73, 24.90 W, 480 MHz, 98 %, 5778 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=23.907740
+15:27:59, 73, 25.14 W, 465 MHz, 98 %, 5778 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:28:06, 73, 25.00 W, 405 MHz, 96 %, 5798 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=24.741672
+15:28:11, 72, 24.58 W, 330 MHz, 98 %, 5801 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:28:17, 72, 25.08 W, 420 MHz, 97 %, 5787 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.689046
+15:28:22, 72, 24.96 W, 480 MHz, 98 %, 5787 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:28:28, 72, 25.02 W, 390 MHz, 98 %, 5785 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=22.814727
+15:28:34, 72, 25.27 W, 495 MHz, 97 %, 5785 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:28:40, 72, 25.00 W, 450 MHz, 97 %, 5786 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=24.537782
+15:28:45, 72, 25.20 W, 480 MHz, 98 %, 5786 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:28:51, 73, 24.92 W, 405 MHz, 98 %, 5786 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=21.451497
+15:28:56, 72, 24.99 W, 435 MHz, 97 %, 5786 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:29:03, 73, 25.53 W, 495 MHz, 97 %, 5802 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=35.354380
+15:29:08, 73, 25.59 W, 345 MHz, 97 %, 5802 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:29:14, 73, 25.28 W, 420 MHz, 98 %, 5797 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=19.623422
+15:29:19, 73, 25.29 W, 465 MHz, 97 %, 5792 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:29:25, 73, 25.96 W, 405 MHz, 98 %, 5791 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=45.605930
+15:29:30, 73, 25.58 W, 465 MHz, 98 %, 5789 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:29:37, 73, 25.18 W, 480 MHz, 98 %, 5789 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=59.697350
+15:29:42, 73, 24.64 W, 465 MHz, 97 %, 5790 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:29:48, 73, 24.45 W, 480 MHz, 98 %, 5793 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=46.705127
+15:29:53, 73, 25.01 W, 480 MHz, 98 %, 5790 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:30:00, 73, 24.83 W, 495 MHz, 98 %, 5790 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=51.823042
+15:30:05, 73, 25.61 W, 435 MHz, 97 %, 5802 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:30:11, 73, 17.96 W, 2250 MHz, 1 %, 5795 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=57.988809
+15:30:16, 75, 18.20 W, 2250 MHz, 1 %, 5792 MiB, P4, 0x0000000000000024, Not Active, Active, Not Active, 
+15:30:23, 73, 24.72 W, 435 MHz, 98 %, 5867 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=56.269606
+15:30:28, 73, 18.11 W, 2250 MHz, 4 %, 5868 MiB, P4, 0x0000000000000024, Not Active, Active, Not Active, 
+15:30:34, 73, 24.34 W, 450 MHz, 98 %, 5869 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=36.907160
+15:30:39, 74, 24.69 W, 585 MHz, 98 %, 5869 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:30:45, 74, 25.11 W, 480 MHz, 98 %, 5867 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=35.201954
+15:30:50, 74, 19.39 W, 2250 MHz, 5 %, 5867 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:30:57, 63, 8.91 W, 210 MHz, 34 %, 5877 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=91.761976
+15:31:02, 61, 5.92 W, 330 MHz, 42 %, 5880 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:31:09, 60, 5.43 W, 315 MHz, 38 %, 5880 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=83.257713
+15:31:14, 60, 7.67 W, 375 MHz, 48 %, 5871 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:31:20, 59, 7.54 W, 480 MHz, 21 %, 5867 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=16.798158
+15:31:25, 58, 5.65 W, 375 MHz, 50 %, 5876 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:31:32, 58, 4.41 W, 375 MHz, 36 %, 5872 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=88.254049
+15:31:37, 58, 7.93 W, 450 MHz, 26 %, 5870 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:31:43, 71, 24.84 W, 945 MHz, 100 %, 5868 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=55.941732
+15:31:48, 70, 24.85 W, 525 MHz, 98 %, 5867 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:31:55, 75, 25.33 W, 960 MHz, 99 %, 5865 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=37.158010
+15:32:00, 72, 24.91 W, 540 MHz, 98 %, 5865 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:32:06, 74, 24.76 W, 615 MHz, 94 %, 5884 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=35.330600
+15:32:11, 72, 25.09 W, 525 MHz, 97 %, 5884 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:32:17, 72, 25.17 W, 540 MHz, 98 %, 5878 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=25.795201
+15:32:22, 72, 24.92 W, 510 MHz, 98 %, 5877 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:32:29, 72, 26.20 W, 450 MHz, 97 %, 5869 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=27.783860
+15:32:34, 73, 24.77 W, 600 MHz, 98 %, 5869 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:32:40, 73, 25.60 W, 585 MHz, 98 %, 5866 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=28.434190
+15:32:45, 73, 24.90 W, 570 MHz, 98 %, 5860 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:32:51, 73, 25.42 W, 555 MHz, 97 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=49.299630
+15:32:57, 73, 25.26 W, 570 MHz, 98 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:33:03, 73, 24.80 W, 555 MHz, 98 %, 5932 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=30.647788
+15:33:08, 73, 25.02 W, 570 MHz, 98 %, 5932 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:33:14, 73, 25.56 W, 615 MHz, 97 %, 5924 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=26.594664
+15:33:19, 73, 25.42 W, 465 MHz, 99 %, 5921 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:33:26, 73, 24.97 W, 510 MHz, 97 %, 5920 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=25.161292
+15:33:31, 76, 25.53 W, 855 MHz, 100 %, 5919 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:33:37, 73, 25.02 W, 510 MHz, 99 %, 5921 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=27.856834
+15:33:42, 73, 25.14 W, 555 MHz, 98 %, 5864 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:33:48, 73, 24.94 W, 465 MHz, 98 %, 5863 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=27.584404
+15:33:54, 73, 24.88 W, 555 MHz, 98 %, 5863 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:34:00, 73, 25.00 W, 540 MHz, 97 %, 5863 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=31.906051
+15:34:05, 73, 25.20 W, 585 MHz, 98 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:34:11, 73, 24.97 W, 540 MHz, 97 %, 5878 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=43.252379
+15:34:16, 73, 25.12 W, 480 MHz, 98 %, 5870 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:34:23, 73, 25.39 W, 465 MHz, 97 %, 5865 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=28.676255
+15:34:28, 73, 25.07 W, 570 MHz, 98 %, 5865 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:34:34, 73, 24.96 W, 555 MHz, 98 %, 5862 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=28.691691
+15:34:39, 73, 24.99 W, 525 MHz, 98 %, 5861 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:34:45, 73, 25.18 W, 555 MHz, 99 %, 5857 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=26.291046
+15:34:50, 73, 25.08 W, 525 MHz, 99 %, 5855 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:34:57, 73, 24.74 W, 570 MHz, 97 %, 5858 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=23.358295
+15:35:02, 73, 24.43 W, 465 MHz, 98 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:35:08, 73, 24.76 W, 540 MHz, 98 %, 5872 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=31.589099
+15:35:13, 73, 25.06 W, 480 MHz, 97 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:35:20, 73, 24.93 W, 435 MHz, 98 %, 5868 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=32.515407
+15:35:25, 73, 24.94 W, 555 MHz, 98 %, 5867 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:35:31, 73, 24.75 W, 585 MHz, 98 %, 5864 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=47.334462
+15:35:36, 73, 25.33 W, 540 MHz, 97 %, 5872 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:35:42, 73, 25.06 W, 540 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=19.806261
+15:35:48, 73, 25.16 W, 570 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:35:54, 73, 24.99 W, 615 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=22.558945
+15:35:59, 73, 25.11 W, 600 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:36:05, 73, 25.48 W, 555 MHz, 96 %, 5883 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=22.660518
+15:36:10, 73, 25.03 W, 510 MHz, 96 %, 5881 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:36:17, 73, 21.20 W, 525 MHz, 97 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=21.407190
+15:36:22, 73, 25.39 W, 555 MHz, 97 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:36:28, 73, 25.10 W, 495 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=23.429997
+15:36:33, 73, 24.91 W, 570 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:36:39, 73, 25.14 W, 585 MHz, 98 %, 5870 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=22.315158
+15:36:44, 73, 25.11 W, 570 MHz, 97 %, 5867 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:36:51, 73, 24.86 W, 450 MHz, 97 %, 5865 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=33.328202
+15:36:56, 73, 24.77 W, 465 MHz, 98 %, 5862 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:37:02, 73, 24.89 W, 600 MHz, 98 %, 5884 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=26.265818
+15:37:08, 73, 24.65 W, 540 MHz, 97 %, 5888 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:37:14, 73, 25.63 W, 570 MHz, 97 %, 5884 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=31.129038
+15:37:19, 73, 25.07 W, 570 MHz, 99 %, 5878 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:37:25, 73, 25.25 W, 555 MHz, 97 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=58.791076
+15:37:30, 73, 24.90 W, 555 MHz, 97 %, 5866 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:37:37, 73, 24.77 W, 570 MHz, 98 %, 5856 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=24.657001
+15:37:42, 73, 24.62 W, 525 MHz, 98 %, 5856 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:37:48, 73, 24.83 W, 540 MHz, 97 %, 5855 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=22.163649
+15:37:53, 73, 25.42 W, 495 MHz, 98 %, 5855 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:38:00, 73, 25.30 W, 540 MHz, 99 %, 5855 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=21.968900
+15:38:05, 74, 24.17 W, 300 MHz, 97 %, 5887 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:38:11, 73, 24.77 W, 510 MHz, 97 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=28.908166
+15:38:16, 73, 25.07 W, 585 MHz, 96 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:38:22, 73, 25.01 W, 510 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=22.917408
+15:38:27, 73, 24.61 W, 525 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:38:34, 73, 26.42 W, 570 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=31.181109
+15:38:39, 73, 24.91 W, 495 MHz, 97 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:38:45, 73, 25.07 W, 540 MHz, 98 %, 5872 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=26.164951
+15:38:50, 73, 24.82 W, 405 MHz, 98 %, 5833 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:38:56, 73, 24.66 W, 435 MHz, 97 %, 5843 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=25.125618
+15:39:02, 73, 27.52 W, 435 MHz, 97 %, 5855 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:39:08, 73, 24.91 W, 510 MHz, 98 %, 5883 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=21.935775
+15:39:13, 73, 24.88 W, 600 MHz, 98 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:39:19, 73, 24.95 W, 585 MHz, 99 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=22.681424
+15:39:24, 73, 24.91 W, 645 MHz, 97 %, 5872 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:39:31, 73, 24.97 W, 555 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=23.032923
+15:39:36, 73, 25.24 W, 540 MHz, 98 %, 5869 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:39:42, 72, 18.39 W, 2250 MHz, 5 %, 5868 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=35.202538
+15:39:47, 73, 25.20 W, 555 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:39:53, 73, 24.19 W, 570 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=28.198457
+15:39:58, 73, 25.02 W, 465 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:40:05, 73, 25.04 W, 540 MHz, 98 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=23.276584
+15:40:10, 73, 25.39 W, 555 MHz, 98 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:40:16, 73, 25.64 W, 465 MHz, 96 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=22.735901
+15:40:21, 73, 25.02 W, 600 MHz, 98 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:40:28, 73, 24.89 W, 450 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=23.377870
+15:40:33, 73, 24.84 W, 465 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:40:39, 73, 24.90 W, 570 MHz, 99 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=22.552109
+15:40:44, 73, 25.16 W, 495 MHz, 98 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:40:50, 73, 25.68 W, 540 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=21.459576
+15:40:55, 73, 25.02 W, 435 MHz, 97 %, 5868 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:41:02, 73, 25.19 W, 735 MHz, 98 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=58.790449
+15:41:07, 73, 25.36 W, 495 MHz, 98 %, 5887 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:41:13, 73, 24.19 W, 600 MHz, 97 %, 5882 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=24.064256
+15:41:18, 66, 10.31 W, 405 MHz, 13 %, 5885 MiB, P4, 0x0000000000000024, Not Active, Active, Not Active, 
+15:41:25, 61, 8.42 W, 450 MHz, 23 %, 5885 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=88.199290
+15:41:30, 60, 8.13 W, 450 MHz, 26 %, 5880 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:41:36, 59, 8.04 W, 435 MHz, 28 %, 5882 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=80.093963
+15:41:41, 58, 7.72 W, 435 MHz, 19 %, 5876 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:41:48, 58, 6.10 W, 510 MHz, 62 %, 5885 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=80.542336
+15:41:53, 58, 7.73 W, 420 MHz, 17 %, 5885 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:41:59, 65, 24.58 W, 1140 MHz, 99 %, 5881 MiB, P4, 0x0000000000000024, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=28.351812
+15:42:04, 70, 24.73 W, 675 MHz, 97 %, 5889 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:42:10, 71, 24.99 W, 495 MHz, 97 %, 5886 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=26.696634
+15:42:15, 72, 24.47 W, 555 MHz, 98 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:42:22, 72, 24.58 W, 660 MHz, 97 %, 5881 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=26.168408
+15:42:27, 72, 24.27 W, 555 MHz, 99 %, 5874 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:42:33, 72, 24.86 W, 540 MHz, 97 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=22.722043
+15:42:38, 72, 24.53 W, 630 MHz, 99 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:42:45, 72, 24.66 W, 540 MHz, 98 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=21.015812
+15:42:50, 72, 25.13 W, 540 MHz, 98 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:42:56, 73, 24.94 W, 480 MHz, 98 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=29.324267
+15:43:01, 73, 24.91 W, 480 MHz, 97 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:43:07, 73, 25.27 W, 480 MHz, 98 %, 5883 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=33.129539
+15:43:13, 73, 24.81 W, 555 MHz, 97 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:43:19, 73, 25.01 W, 585 MHz, 97 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=22.336084
+15:43:24, 73, 24.92 W, 480 MHz, 99 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:43:30, 73, 24.55 W, 570 MHz, 97 %, 5869 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=23.097887
+15:43:35, 73, 25.06 W, 495 MHz, 98 %, 5864 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:43:42, 73, 24.94 W, 600 MHz, 98 %, 5864 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=22.257697
+15:43:47, 73, 23.74 W, 510 MHz, 98 %, 5860 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:43:53, 73, 24.69 W, 450 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=20.997872
+15:43:58, 73, 24.90 W, 495 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:44:04, 73, 24.94 W, 510 MHz, 98 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=22.405385
+15:44:09, 74, 27.09 W, 465 MHz, 97 %, 5885 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:44:16, 73, 24.87 W, 540 MHz, 97 %, 5881 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=24.183882
+15:44:21, 72, 15.65 W, 2250 MHz, 25 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:44:27, 73, 18.65 W, 2250 MHz, 5 %, 5876 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=9.979443
+15:44:32, 64, 9.89 W, 210 MHz, 19 %, 5885 MiB, P5, 0x0000000000000024, Not Active, Active, Not Active, 
+15:44:39, 60, 5.05 W, 405 MHz, 31 %, 5881 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=50.542652
+15:44:44, 59, 4.46 W, 315 MHz, 30 %, 5880 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:44:50, 59, 7.84 W, 420 MHz, 20 %, 5886 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=84.039441
+15:44:55, 58, 8.05 W, 450 MHz, 26 %, 5883 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:45:02, 58, 8.24 W, 585 MHz, 19 %, 5888 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=103.451584
+15:45:07, 58, 7.61 W, 495 MHz, 21 %, 5889 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:45:13, 73, 25.68 W, 1020 MHz, 92 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=349.000000 Processor Information(_Total)=19.704539
+15:45:18, 71, 25.04 W, 510 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:45:24, 71, 24.82 W, 600 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=23.063692
+15:45:29, 71, 25.02 W, 555 MHz, 96 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:45:36, 71, 23.58 W, 615 MHz, 98 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=46.038444
+15:45:41, 72, 25.89 W, 510 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:45:47, 72, 25.07 W, 540 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=31.793162
+15:45:52, 72, 24.95 W, 555 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:45:59, 72, 24.98 W, 540 MHz, 98 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=31.840443
+15:46:04, 73, 24.85 W, 585 MHz, 96 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:46:10, 73, 24.90 W, 555 MHz, 97 %, 5887 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=23.010265
+15:46:15, 73, 25.13 W, 555 MHz, 98 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:46:22, 73, 24.43 W, 495 MHz, 98 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=22.819281
+15:46:27, 73, 24.30 W, 585 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:46:33, 73, 25.14 W, 585 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=22.812354
+15:46:38, 76, 25.48 W, 885 MHz, 100 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:46:44, 73, 25.19 W, 525 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=20.931663
+15:46:49, 73, 24.22 W, 540 MHz, 97 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:46:56, 73, 24.63 W, 570 MHz, 98 %, 5873 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=38.547001
+15:47:01, 73, 24.81 W, 540 MHz, 97 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:47:07, 73, 25.26 W, 555 MHz, 98 %, 5883 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=23.209776
+15:47:12, 73, 24.26 W, 525 MHz, 99 %, 5880 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:47:18, 73, 24.92 W, 585 MHz, 97 %, 5879 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=23.585305
+15:47:23, 73, 24.85 W, 630 MHz, 97 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:47:30, 73, 24.96 W, 615 MHz, 96 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=23.789158
+15:47:35, 73, 25.19 W, 540 MHz, 98 %, 5872 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:47:41, 73, 25.23 W, 510 MHz, 97 %, 5870 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=22.101639
+15:47:46, 73, 24.99 W, 555 MHz, 98 %, 5867 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:47:53, 69, 11.74 W, 1335 MHz, 4 %, 5867 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=24.436317
+15:47:58, 73, 25.50 W, 600 MHz, 98 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:48:04, 73, 25.07 W, 480 MHz, 99 %, 5883 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=22.889485
+15:48:09, 73, 24.94 W, 525 MHz, 98 %, 5876 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:48:15, 73, 25.16 W, 615 MHz, 98 %, 5875 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=36.429903
+15:48:20, 73, 24.88 W, 465 MHz, 97 %, 5872 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:48:27, 73, 25.12 W, 555 MHz, 97 %, 5865 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=23.271651
+15:48:32, 74, 25.31 W, 480 MHz, 98 %, 5865 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:48:38, 73, 25.55 W, 555 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=34.910624
+15:48:43, 73, 25.36 W, 570 MHz, 98 %, 5871 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:48:50, 73, 24.96 W, 525 MHz, 98 %, 5904 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=30.105839
+15:48:55, 73, 25.69 W, 510 MHz, 97 %, 5904 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:49:01, 73, 25.15 W, 615 MHz, 98 %, 5917 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=31.749312
+15:49:06, 73, 24.66 W, 540 MHz, 98 %, 5949 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:49:12, 73, 25.12 W, 405 MHz, 97 %, 5940 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=30.085683
+15:49:18, 73, 25.20 W, 600 MHz, 98 %, 5934 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:49:24, 73, 25.02 W, 510 MHz, 98 %, 5932 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=29.069601
+15:49:29, 73, 24.88 W, 495 MHz, 97 %, 5928 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:49:36, 71, 26.00 W, 1005 MHz, 76 %, 5928 MiB, P3, 0x0000000000000024, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=38.747106
+15:49:41, 73, 25.02 W, 450 MHz, 98 %, 5936 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:49:47, 73, 24.62 W, 495 MHz, 98 %, 5935 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=28.501255
+15:49:52, 73, 24.88 W, 525 MHz, 98 %, 5936 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:49:59, 73, 24.80 W, 555 MHz, 98 %, 5936 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=28.091500
+15:50:04, 73, 24.18 W, 525 MHz, 98 %, 5897 MiB, P4, 0x0000000000000004, Not Active, Not Active, Not Active, 
+15:50:10, 67, 11.01 W, 1200 MHz, 8 %, 5890 MiB, P4, 0x0000000000000024, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=16.986166
+15:50:15, 63, 9.92 W, 210 MHz, 25 %, 5895 MiB, P4, 0x0000000000000024, Not Active, Active, Not Active, 
+15:50:22, 60, 8.31 W, 435 MHz, 24 %, 5893 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=103.821802
+15:50:27, 59, 8.25 W, 465 MHz, 24 %, 5889 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:50:33, 59, 8.69 W, 435 MHz, 26 %, 5886 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=34.596094
+15:50:38, 58, 5.36 W, 315 MHz, 40 %, 5886 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:50:45, 58, 5.16 W, 435 MHz, 42 %, 5895 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=350.000000 Processor Information(_Total)=82.701578
+15:50:50, 58, 3.95 W, 375 MHz, 40 %, 5893 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:50:56, 58, 6.34 W, 390 MHz, 42 %, 5892 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=80.440201
+15:51:02, 58, 8.04 W, 435 MHz, 31 %, 5895 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:51:08, 57, 6.66 W, 345 MHz, 33 %, 5895 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=350.000000 Processor Information(_Total)=14.949607
+15:51:13, 89, 52.41 W, 1680 MHz, 92 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:51:19, 88, 42.27 W, 1440 MHz, 96 %, 5882 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=30.098929
+15:51:24, 88, 38.75 W, 1365 MHz, 95 %, 5882 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:51:31, 90, 61.56 W, 1920 MHz, 96 %, 5882 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=42.915305
+15:51:36, 93, 55.41 W, 1275 MHz, 94 %, 5882 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:51:42, 88, 38.63 W, 1485 MHz, 95 %, 5879 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=34.663841
+15:51:47, 89, 38.69 W, 1440 MHz, 96 %, 5876 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:51:53, 87, 23.44 W, 585 MHz, 100 %, 5874 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=31.950948
+15:51:59, 91, 45.87 W, 1275 MHz, 96 %, 5874 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:52:05, 90, 39.60 W, 1185 MHz, 96 %, 5894 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=30.054274
+15:52:10, 95, 52.98 W, 1770 MHz, 100 %, 5923 MiB, P3, 0x0000000000000068, Active, Active, Not Active, 
+15:52:16, 88, 36.72 W, 1320 MHz, 96 %, 5910 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=27.177605
+15:52:21, 92, 54.49 W, 1920 MHz, 96 %, 5910 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:52:28, 89, 34.37 W, 1380 MHz, 89 %, 5906 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=28.212110
+15:52:33, 89, 37.86 W, 1395 MHz, 96 %, 5906 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:52:39, 89, 35.25 W, 1470 MHz, 96 %, 5906 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=30.352683
+15:52:44, 93, 41.36 W, 1395 MHz, 99 %, 5904 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:52:51, 89, 39.13 W, 1605 MHz, 97 %, 5904 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=51.995257
+15:52:56, 92, 44.56 W, 210 MHz, 95 %, 5913 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:53:02, 88, 37.20 W, 1365 MHz, 96 %, 5951 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=50.163920
+15:53:07, 88, 36.72 W, 1365 MHz, 97 %, 5951 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:53:13, 88, 36.48 W, 1410 MHz, 96 %, 5943 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=24.166659
+15:53:18, 89, 36.60 W, 1365 MHz, 96 %, 5937 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:53:25, 88, 35.72 W, 1470 MHz, 95 %, 5937 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=38.187890
+15:53:30, 88, 34.98 W, 1380 MHz, 96 %, 5936 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:53:36, 89, 37.47 W, 1440 MHz, 96 %, 5932 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=22.924567
+15:53:41, 86, 26.73 W, 435 MHz, 99 %, 5939 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:53:48, 86, 31.68 W, 2460 MHz, 4 %, 5939 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=19.747078
+15:53:53, 68, 11.79 W, 225 MHz, 96 %, 5877 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:53:59, 87, 32.52 W, 1350 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=23.642454
+15:54:04, 88, 37.52 W, 1440 MHz, 97 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:54:10, 90, 42.30 W, 1425 MHz, 95 %, 5890 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=47.982270
+15:54:16, 71, 10.94 W, 300 MHz, 19 %, 5890 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:54:22, 64, 7.70 W, 495 MHz, 16 %, 5888 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=96.695415
+15:54:27, 63, 8.18 W, 450 MHz, 23 %, 5885 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:54:34, 62, 9.27 W, 435 MHz, 23 %, 5881 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=44.620204
+15:54:39, 61, 6.52 W, 435 MHz, 25 %, 5878 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:54:45, 59, 8.00 W, 450 MHz, 27 %, 5878 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=28.484355
+15:54:50, 59, 5.57 W, 405 MHz, 32 %, 5888 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:54:57, 59, 6.43 W, 345 MHz, 58 %, 5888 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=81.509428
+15:55:02, 59, 7.22 W, 465 MHz, 14 %, 5891 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:55:08, 58, 5.53 W, 330 MHz, 36 %, 5891 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=76.846372
+15:55:13, 88, 44.85 W, 1515 MHz, 100 %, 5881 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:55:20, 86, 36.58 W, 1920 MHz, 90 %, 5875 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=20.243806
+15:55:25, 88, 39.23 W, 1260 MHz, 95 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:55:31, 88, 38.09 W, 1560 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=21.493382
+15:55:36, 87, 37.94 W, 1470 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:55:43, 89, 42.51 W, 1455 MHz, 96 %, 5877 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=28.449237
+15:55:48, 89, 40.13 W, 1575 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:55:54, 90, 38.19 W, 960 MHz, 95 %, 5877 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=23.207208
+15:55:59, 88, 36.53 W, 1485 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:56:05, 92, 46.51 W, 1920 MHz, 95 %, 5898 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=19.876530
+15:56:11, 89, 40.07 W, 1485 MHz, 96 %, 5898 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:56:17, 88, 35.46 W, 1305 MHz, 96 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=19.119935
+15:56:22, 89, 42.60 W, 1470 MHz, 96 %, 5886 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:56:28, 88, 35.26 W, 1395 MHz, 95 %, 5881 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=19.457812
+15:56:33, 89, 41.04 W, 1470 MHz, 95 %, 5886 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:56:40, 84, 22.06 W, 2250 MHz, 4 %, 5883 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=348.000000 Processor Information(_Total)=13.298000
+15:56:45, 69, 10.54 W, 255 MHz, 19 %, 5895 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:56:51, 63, 8.45 W, 435 MHz, 23 %, 5893 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=88.742854
+15:56:56, 62, 7.82 W, 420 MHz, 24 %, 5890 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:57:03, 61, 5.47 W, 465 MHz, 43 %, 5890 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=49.840293
+15:57:08, 60, 7.62 W, 465 MHz, 16 %, 5890 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:57:14, 59, 6.36 W, 480 MHz, 62 %, 5887 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=85.986959
+15:57:20, 59, 4.70 W, 405 MHz, 22 %, 5887 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:57:26, 59, 6.92 W, 525 MHz, 19 %, 5881 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=75.983013
+15:57:31, 59, 8.19 W, 510 MHz, 33 %, 5875 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:57:37, 88, 47.44 W, 1365 MHz, 95 %, 5882 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=351.000000 Processor Information(_Total)=21.431317
+15:57:42, 88, 37.97 W, 1275 MHz, 96 %, 5879 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+15:57:49, 92, 36.48 W, 1920 MHz, 95 %, 5879 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=23.853779
+15:57:54, 91, 52.62 W, 210 MHz, 96 %, 5879 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+15:58:00, 90, 41.18 W, 1305 MHz, 96 %, 5879 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=31.437834
+15:58:05, 89, 40.70 W, 1215 MHz, 95 %, 5900 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:58:12, 89, 41.44 W, 1605 MHz, 96 %, 5894 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=34.220533
+15:58:17, 89, 38.62 W, 1455 MHz, 96 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:58:23, 88, 37.26 W, 1440 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=26.861519
+15:58:28, 88, 36.67 W, 1395 MHz, 96 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:58:34, 88, 37.04 W, 1395 MHz, 96 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=24.808051
+15:58:39, 88, 37.22 W, 1395 MHz, 96 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:58:46, 88, 37.50 W, 1395 MHz, 97 %, 5883 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=41.251556
+15:58:51, 88, 41.08 W, 1410 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:58:57, 87, 34.29 W, 1410 MHz, 95 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=32.779141
+15:59:02, 88, 36.80 W, 1395 MHz, 94 %, 5894 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:59:09, 89, 36.84 W, 1395 MHz, 97 %, 5894 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=35.839544
+15:59:14, 89, 37.01 W, 1425 MHz, 97 %, 5886 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:59:20, 93, 38.33 W, 2055 MHz, 100 %, 5883 MiB, P3, 0x0000000000000048, Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=42.468390
+15:59:25, 85, 26.98 W, 2460 MHz, 4 %, 5880 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, 
+15:59:31, 68, 8.34 W, 225 MHz, 25 %, 5876 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=53.330220
+15:59:37, 89, 39.32 W, 1470 MHz, 96 %, 5881 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+15:59:43, 86, 38.87 W, 210 MHz, 100 %, 5881 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=38.767132
+15:59:48, 74, 11.69 W, 540 MHz, 14 %, 5896 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+15:59:55, 65, 10.26 W, 570 MHz, 25 %, 5896 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=90.224321
+16:00:00, 63, 6.02 W, 360 MHz, 44 %, 5892 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:00:06, 62, 8.04 W, 465 MHz, 27 %, 5903 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=52.868023
+16:00:11, 61, 8.05 W, 420 MHz, 26 %, 5902 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:00:18, 60, 8.41 W, 420 MHz, 30 %, 5900 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=96.408639
+16:00:23, 60, 5.91 W, 405 MHz, 35 %, 5898 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:00:29, 60, 8.26 W, 450 MHz, 25 %, 5894 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=94.635889
+16:00:34, 90, 53.33 W, 1935 MHz, 100 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:00:41, 88, 40.49 W, 1590 MHz, 95 %, 5891 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=23.661361
+16:00:46, 86, 26.27 W, 1155 MHz, 100 %, 5891 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:00:52, 95, 51.32 W, 1275 MHz, 100 %, 5893 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=67.571122
+16:00:57, 88, 35.60 W, 1335 MHz, 96 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:01:04, 89, 41.08 W, 1320 MHz, 96 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=32.273086
+16:01:09, 89, 36.67 W, 1425 MHz, 95 %, 5887 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:01:15, 88, 36.85 W, 1395 MHz, 95 %, 5883 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=24.811736
+16:01:20, 88, 35.83 W, 1335 MHz, 96 %, 5883 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:01:26, 88, 36.76 W, 1365 MHz, 97 %, 5883 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=39.361329
+16:01:32, 95, 67.12 W, 1920 MHz, 95 %, 5883 MiB, P0, 0x0000000000000068, Active, Active, Not Active, 
+16:01:38, 88, 34.11 W, 1245 MHz, 96 %, 5882 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=21.950050
+16:01:43, 88, 32.43 W, 1095 MHz, 95 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:01:49, 87, 39.89 W, 1395 MHz, 95 %, 5878 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=47.933685
+16:01:54, 88, 36.24 W, 1350 MHz, 96 %, 5878 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:02:01, 88, 35.58 W, 1335 MHz, 95 %, 5878 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=37.044637
+16:02:06, 87, 31.09 W, 1065 MHz, 96 %, 5891 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:02:12, 88, 36.38 W, 1350 MHz, 96 %, 5887 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=21.654359
+16:02:17, 89, 37.45 W, 1230 MHz, 96 %, 5882 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:02:24, 86, 34.76 W, 2430 MHz, 20 %, 5884 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=48.050799
+16:02:29, 89, 36.30 W, 1170 MHz, 96 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:02:35, 89, 36.26 W, 1365 MHz, 96 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=37.994813
+16:02:40, 95, 63.72 W, 1155 MHz, 95 %, 5883 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:02:46, 90, 54.55 W, 1920 MHz, 95 %, 5883 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=47.510457
+16:02:52, 88, 35.77 W, 1125 MHz, 97 %, 5883 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:02:58, 88, 35.06 W, 1170 MHz, 96 %, 5878 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=33.424095
+16:03:03, 87, 31.57 W, 1275 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:03:10, 69, 7.36 W, 360 MHz, 48 %, 5893 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=103.174616
+16:03:15, 65, 8.66 W, 495 MHz, 26 %, 5892 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:03:21, 63, 8.76 W, 465 MHz, 30 %, 5886 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=84.600566
+16:03:26, 62, 7.82 W, 600 MHz, 25 %, 5878 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:03:33, 61, 9.66 W, 690 MHz, 26 %, 5893 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=66.251679
+16:03:38, 60, 7.59 W, 540 MHz, 26 %, 5893 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:03:45, 59, 8.02 W, 480 MHz, 25 %, 5888 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=35.513525
+16:03:50, 59, 7.89 W, 360 MHz, 23 %, 5887 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:03:56, 89, 49.73 W, 1560 MHz, 100 %, 5884 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=19.614726
+16:04:01, 90, 47.92 W, 945 MHz, 95 %, 5898 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:04:07, 87, 37.55 W, 210 MHz, 100 %, 5897 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=23.532540
+16:04:13, 88, 41.58 W, 1185 MHz, 96 %, 5891 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:04:19, 88, 37.08 W, 1395 MHz, 96 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=35.612531
+16:04:24, 90, 44.79 W, 1665 MHz, 97 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:04:30, 88, 34.97 W, 1485 MHz, 96 %, 5887 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=22.464585
+16:04:35, 88, 36.49 W, 1335 MHz, 97 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:04:42, 88, 35.18 W, 1275 MHz, 95 %, 5882 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=34.145017
+16:04:47, 88, 35.58 W, 1275 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:04:53, 88, 35.51 W, 1395 MHz, 96 %, 5875 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=45.847828
+16:04:58, 88, 36.81 W, 1365 MHz, 96 %, 5869 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:05:05, 89, 37.10 W, 1365 MHz, 96 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=31.978392
+16:05:10, 89, 37.08 W, 1395 MHz, 95 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:05:16, 89, 37.52 W, 1425 MHz, 96 %, 5896 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=35.521503
+16:05:21, 89, 35.57 W, 1380 MHz, 95 %, 5887 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:05:28, 88, 34.92 W, 1395 MHz, 97 %, 5862 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=25.628608
+16:05:33, 89, 37.18 W, 1350 MHz, 97 %, 5868 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:05:39, 89, 38.90 W, 1485 MHz, 96 %, 5884 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=38.810455
+16:05:44, 89, 36.80 W, 1485 MHz, 95 %, 5873 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:05:50, 87, 34.26 W, 1260 MHz, 95 %, 5882 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=45.073045
+16:05:55, 85, 17.56 W, 1920 MHz, 0 %, 5873 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:06:02, 95, 59.86 W, 1215 MHz, 95 %, 5873 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=77.125277
+16:06:07, 88, 35.51 W, 1275 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:06:13, 87, 25.74 W, 480 MHz, 97 %, 5897 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=55.786699
+16:06:18, 88, 35.60 W, 1245 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:06:25, 89, 39.18 W, 1470 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=45.784828
+16:06:30, 87, 17.68 W, 210 MHz, 100 %, 5895 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:06:36, 88, 34.52 W, 1200 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=29.626691
+16:06:41, 89, 38.23 W, 1185 MHz, 97 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:06:48, 88, 36.06 W, 1290 MHz, 95 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=33.656428
+16:06:53, 91, 65.90 W, 1920 MHz, 95 %, 5899 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:06:59, 84, 22.20 W, 2250 MHz, 0 %, 5895 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=27.581314
+16:07:04, 94, 65.97 W, 1920 MHz, 96 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:07:11, 94, 31.97 W, 1920 MHz, 99 %, 5895 MiB, P3, 0x0000000000000068, Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=16.214340
+16:07:16, 84, 18.95 W, 1920 MHz, 0 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:07:22, 85, 25.82 W, 2460 MHz, 1 %, 5895 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=22.198628
+16:07:27, 86, 18.37 W, 945 MHz, 100 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:07:33, 88, 25.78 W, 1470 MHz, 98 %, 5895 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=33.625575
+16:07:39, 92, 44.40 W, 225 MHz, 96 %, 5895 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:07:45, 88, 35.23 W, 1155 MHz, 97 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=22.969551
+16:07:50, 87, 28.80 W, 210 MHz, 100 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:07:56, 88, 35.03 W, 1215 MHz, 97 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=19.496366
+16:08:01, 88, 34.46 W, 780 MHz, 96 %, 5895 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:08:08, 91, 42.40 W, 1920 MHz, 95 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=19.390352
+16:08:13, 89, 37.44 W, 990 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:08:19, 88, 35.00 W, 1290 MHz, 92 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=16.511753
+16:08:24, 83, 25.70 W, 2280 MHz, 0 %, 5895 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:08:31, 89, 33.91 W, 1245 MHz, 100 %, 5895 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=14.434090
+16:08:36, 88, 30.39 W, 1350 MHz, 100 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:08:42, 92, 38.86 W, 210 MHz, 100 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=16.146670
+16:08:47, 88, 35.73 W, 315 MHz, 100 %, 5895 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:08:53, 89, 39.72 W, 1515 MHz, 94 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=34.363465
+16:08:59, 88, 37.62 W, 1395 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:09:05, 94, 38.60 W, 1305 MHz, 100 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=19.221684
+16:09:10, 88, 32.06 W, 1920 MHz, 100 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:09:16, 87, 30.59 W, 1170 MHz, 100 %, 5895 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=17.477023
+16:09:21, 87, 32.28 W, 930 MHz, 100 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:09:28, 88, 38.75 W, 1410 MHz, 96 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=35.916879
+16:09:33, 89, 39.54 W, 1395 MHz, 97 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:09:39, 91, 24.31 W, 495 MHz, 100 %, 5895 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=19.457875
+16:09:44, 89, 32.43 W, 1260 MHz, 100 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:09:50, 89, 32.62 W, 1245 MHz, 100 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.668774
+16:09:56, 88, 31.26 W, 1290 MHz, 100 %, 5895 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:10:02, 88, 35.85 W, 1665 MHz, 92 %, 5905 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=51.855155
+16:10:07, 89, 38.58 W, 1380 MHz, 96 %, 5896 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:10:13, 88, 26.86 W, 870 MHz, 100 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=21.223281
+16:10:18, 88, 32.43 W, 1500 MHz, 99 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:10:25, 89, 32.15 W, 1275 MHz, 100 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=26.652980
+16:10:30, 88, 17.17 W, 1740 MHz, 100 %, 5892 MiB, P0, 0x0000000000000004, Not Active, Not Active, Not Active, 
+16:10:36, 95, 52.38 W, 1515 MHz, 100 %, 5892 MiB, P3, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=23.823166
+16:10:41, 93, 52.84 W, 1335 MHz, 95 %, 5892 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:10:48, 83, 17.56 W, 210 MHz, 100 %, 5892 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=21.495261
+16:10:53, 96, 40.14 W, 1725 MHz, 96 %, 5892 MiB, P0, 0x0000000000000068, Active, Active, Not Active, 
+16:10:59, 90, 22.17 W, 210 MHz, 99 %, 5892 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=23.938119
+16:11:04, 89, 39.40 W, 1305 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:11:10, 89, 37.90 W, 1365 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=19.608431
+16:11:15, 89, 39.00 W, 1395 MHz, 97 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:11:22, 89, 37.88 W, 1395 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=19.621135
+16:11:27, 91, 32.62 W, 1920 MHz, 96 %, 5892 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:11:33, 87, 38.27 W, 1920 MHz, 99 %, 5892 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=18.770419
+16:11:38, 88, 36.54 W, 1275 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:11:45, 89, 39.66 W, 1470 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=22.077033
+16:11:50, 87, 23.44 W, 210 MHz, 100 %, 5892 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:11:56, 88, 32.77 W, 1500 MHz, 100 %, 5892 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=20.649566
+16:12:01, 82, 15.48 W, 1755 MHz, 3 %, 5892 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:12:07, 87, 32.74 W, 1290 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=22.051301
+16:12:13, 88, 37.63 W, 1350 MHz, 97 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:12:19, 88, 31.92 W, 975 MHz, 100 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=17.165962
+16:12:24, 89, 33.07 W, 1275 MHz, 100 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:12:30, 88, 30.07 W, 1365 MHz, 100 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=351.000000 Processor Information(_Total)=16.457030
+16:12:35, 88, 31.09 W, 1395 MHz, 99 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:12:42, 89, 38.60 W, 1455 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=19.662418
+16:12:47, 88, 37.53 W, 1305 MHz, 95 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:12:53, 88, 37.82 W, 1350 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=20.152283
+16:12:58, 88, 37.50 W, 1380 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:13:04, 89, 40.14 W, 1305 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=32.353633
+16:13:09, 85, 23.26 W, 1740 MHz, 100 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:13:16, 86, 26.59 W, 1350 MHz, 99 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=24.942110
+16:13:21, 89, 37.93 W, 1410 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:13:27, 85, 48.20 W, 1305 MHz, 98 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=23.268745
+16:13:32, 88, 37.94 W, 1455 MHz, 95 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:13:39, 66, 4.82 W, 210 MHz, 0 %, 5888 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=75.435122
+16:13:44, 63, 4.62 W, 210 MHz, 3 %, 5888 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:13:50, 60, 4.28 W, 210 MHz, 3 %, 5888 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=347.000000 Processor Information(_Total)=9.608896
+16:13:55, 89, 50.94 W, 1290 MHz, 96 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:14:01, 88, 37.37 W, 1440 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=47.357394
+16:14:06, 88, 40.73 W, 1575 MHz, 95 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:14:13, 89, 39.44 W, 1515 MHz, 93 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=20.323788
+16:14:18, 88, 39.86 W, 1485 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:14:24, 88, 35.54 W, 1350 MHz, 93 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=33.102868
+16:14:29, 94, 37.91 W, 1440 MHz, 100 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:14:36, 89, 40.20 W, 1560 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=31.089436
+16:14:41, 88, 40.68 W, 1350 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:14:47, 89, 41.49 W, 1275 MHz, 97 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=43.636928
+16:14:52, 89, 35.76 W, 1380 MHz, 95 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:14:58, 89, 44.33 W, 1290 MHz, 95 %, 5888 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=35.092713
+16:15:04, 87, 34.13 W, 1125 MHz, 95 %, 5888 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:15:10, 89, 37.29 W, 1380 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=24.877687
+16:15:15, 86, 31.60 W, 1920 MHz, 95 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:15:21, 88, 33.97 W, 1200 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=21.377330
+16:15:26, 88, 36.17 W, 1380 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:15:33, 88, 36.72 W, 1335 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=20.074096
+16:15:38, 98, 65.11 W, 1605 MHz, 96 %, 5949 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:15:44, 88, 33.87 W, 1170 MHz, 96 %, 5949 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=20.753698
+16:15:49, 89, 40.15 W, 1575 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:15:55, 88, 36.75 W, 1365 MHz, 95 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=20.202475
+16:16:00, 88, 36.62 W, 1350 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:16:07, 89, 37.07 W, 1395 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=36.723621
+16:16:12, 89, 37.50 W, 1395 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:16:18, 93, 64.13 W, 1920 MHz, 95 %, 5950 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=23.600034
+16:16:23, 88, 36.20 W, 1335 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:16:29, 88, 37.18 W, 1395 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.791632
+16:16:35, 88, 36.99 W, 1395 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:16:41, 88, 37.72 W, 1380 MHz, 97 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=23.499516
+16:16:46, 88, 36.99 W, 1380 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:16:52, 88, 34.81 W, 1380 MHz, 96 %, 5950 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=23.043371
+16:16:57, 85, 26.44 W, 2460 MHz, 3 %, 5950 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, 
+16:17:04, 90, 40.89 W, 1395 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=20.696877
+16:17:09, 89, 39.91 W, 1500 MHz, 94 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:17:15, 88, 37.81 W, 1335 MHz, 95 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=20.026499
+16:17:20, 89, 37.17 W, 1335 MHz, 97 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:17:26, 88, 37.34 W, 1335 MHz, 96 %, 5901 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=59.184393
+16:17:31, 89, 37.12 W, 1335 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:17:38, 88, 34.66 W, 1185 MHz, 97 %, 5930 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=28.051115
+16:17:43, 88, 34.41 W, 1185 MHz, 96 %, 5931 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:17:49, 88, 40.42 W, 1590 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=22.030972
+16:17:54, 89, 37.19 W, 1365 MHz, 96 %, 5877 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:18:01, 89, 37.40 W, 1215 MHz, 96 %, 5918 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=27.434598
+16:18:06, 94, 48.71 W, 1500 MHz, 100 %, 5892 MiB, P0, 0x0000000000000068, Active, Active, Not Active, 
+16:18:12, 89, 35.55 W, 1380 MHz, 97 %, 5913 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=31.247101
+16:18:17, 88, 36.70 W, 1335 MHz, 96 %, 5927 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:18:24, 88, 36.87 W, 1335 MHz, 96 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=23.724667
+16:18:29, 89, 36.60 W, 1350 MHz, 97 %, 5913 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:18:35, 88, 33.60 W, 1320 MHz, 92 %, 5909 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=21.448318
+16:18:40, 89, 38.88 W, 1155 MHz, 96 %, 5874 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:18:46, 88, 36.70 W, 1620 MHz, 96 %, 5904 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=38.147088
+16:18:51, 88, 35.00 W, 1440 MHz, 96 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:18:58, 87, 35.95 W, 1140 MHz, 94 %, 5874 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=26.549406
+16:19:03, 89, 37.81 W, 1215 MHz, 97 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:19:09, 90, 42.63 W, 210 MHz, 96 %, 5877 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=21.084114
+16:19:14, 93, 47.17 W, 1395 MHz, 96 %, 5908 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:19:21, 92, 41.81 W, 225 MHz, 96 %, 5893 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=22.954211
+16:19:26, 88, 31.79 W, 210 MHz, 100 %, 5873 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:19:32, 89, 37.58 W, 1380 MHz, 96 %, 5908 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=19.832767
+16:19:37, 84, 16.65 W, 1920 MHz, 0 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:19:43, 88, 35.09 W, 1470 MHz, 96 %, 5893 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=30.612546
+16:19:48, 89, 41.50 W, 1305 MHz, 97 %, 5873 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:19:55, 89, 37.81 W, 1410 MHz, 97 %, 5873 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=20.191910
+16:20:00, 93, 56.40 W, 1215 MHz, 96 %, 5914 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:20:06, 89, 36.60 W, 1485 MHz, 95 %, 5878 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.612896
+16:20:11, 93, 40.59 W, 1245 MHz, 95 %, 5894 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:20:17, 86, 19.14 W, 1920 MHz, 97 %, 5875 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=20.521633
+16:20:23, 90, 18.11 W, 210 MHz, 100 %, 5875 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:20:29, 95, 55.71 W, 1425 MHz, 95 %, 5875 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=30.649380
+16:20:34, 84, 23.24 W, 2250 MHz, 0 %, 5875 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:20:40, 86, 22.43 W, 285 MHz, 99 %, 5913 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=21.908092
+16:20:45, 92, 39.79 W, 1530 MHz, 95 %, 5879 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:20:52, 78, 19.05 W, 1455 MHz, 0 %, 5875 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=345.000000 Processor Information(_Total)=9.009490
+16:20:57, 66, 4.91 W, 210 MHz, 0 %, 5875 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:21:03, 62, 5.01 W, 210 MHz, 2 %, 5894 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=341.000000 Processor Information(_Total)=6.947020
+16:21:08, 60, 3.79 W, 210 MHz, 0 %, 5875 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:21:14, 59, 3.56 W, 210 MHz, 0 %, 5895 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=47.940464
+16:21:20, 58, 4.09 W, 210 MHz, 0 %, 5895 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:21:26, 58, 3.88 W, 210 MHz, 1 %, 5875 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=88.135255
+16:21:31, 58, 4.13 W, 210 MHz, 2 %, 5892 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:21:37, 57, 4.01 W, 210 MHz, 0 %, 5877 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=65.948586
+16:21:43, 89, 47.74 W, 1515 MHz, 100 %, 5943 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:21:49, 88, 38.73 W, 1455 MHz, 93 %, 5913 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=21.798268
+16:21:54, 89, 40.54 W, 1530 MHz, 95 %, 5913 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:22:00, 89, 39.53 W, 1530 MHz, 95 %, 5890 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=25.992878
+16:22:05, 88, 36.41 W, 1185 MHz, 95 %, 5882 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:22:12, 88, 34.17 W, 210 MHz, 100 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=23.848996
+16:22:17, 88, 35.21 W, 1305 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:22:23, 83, 18.41 W, 2460 MHz, 0 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=24.394632
+16:22:28, 93, 50.60 W, 465 MHz, 96 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:22:34, 86, 15.73 W, 1920 MHz, 99 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=20.525372
+16:22:40, 86, 39.84 W, 210 MHz, 100 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:22:46, 89, 38.14 W, 1365 MHz, 97 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=36.162323
+16:22:51, 88, 37.40 W, 1410 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:22:57, 88, 36.59 W, 1365 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=25.238859
+16:23:02, 88, 37.53 W, 1395 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:23:09, 89, 39.15 W, 1485 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=35.621022
+16:23:14, 89, 38.27 W, 1380 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:23:20, 88, 36.79 W, 1215 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=20.911887
+16:23:25, 88, 33.83 W, 1380 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:23:32, 88, 34.54 W, 1170 MHz, 94 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=22.347080
+16:23:37, 90, 35.29 W, 405 MHz, 98 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:23:43, 89, 36.83 W, 1500 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=20.562928
+16:23:48, 89, 39.74 W, 1005 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:23:54, 95, 49.89 W, 600 MHz, 92 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=25.803195
+16:23:59, 88, 37.56 W, 1515 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:24:06, 89, 36.46 W, 1155 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=36.573840
+16:24:11, 88, 36.88 W, 1380 MHz, 94 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:24:17, 88, 37.52 W, 1350 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=65.574250
+16:24:22, 87, 31.42 W, 270 MHz, 99 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:24:28, 88, 36.60 W, 1335 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=21.310105
+16:24:34, 88, 36.35 W, 1305 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:24:40, 89, 36.43 W, 1305 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=38.973834
+16:24:45, 88, 36.71 W, 1350 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:24:51, 85, 39.95 W, 1920 MHz, 94 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=32.236848
+16:24:56, 88, 34.54 W, 1185 MHz, 97 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:25:03, 88, 35.44 W, 1275 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=19.159197
+16:25:08, 88, 36.18 W, 1350 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:25:14, 89, 36.77 W, 1155 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=18.441228
+16:25:19, 90, 43.43 W, 435 MHz, 98 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:25:26, 94, 47.57 W, 1395 MHz, 95 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=34.707340
+16:25:31, 88, 37.38 W, 1155 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:25:37, 87, 32.58 W, 960 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=20.506112
+16:25:42, 89, 37.65 W, 1350 MHz, 96 %, 5892 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:25:49, 88, 37.12 W, 1380 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=20.694116
+16:25:54, 90, 31.06 W, 1920 MHz, 97 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:26:00, 94, 57.71 W, 1365 MHz, 95 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=35.279927
+16:26:05, 87, 39.88 W, 795 MHz, 96 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:26:12, 88, 36.47 W, 1320 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=35.263492
+16:26:17, 89, 37.19 W, 1335 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:26:23, 83, 16.31 W, 1950 MHz, 1 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=29.048332
+16:26:28, 91, 47.62 W, 1335 MHz, 96 %, 5880 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:26:34, 88, 35.21 W, 1215 MHz, 96 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=30.510086
+16:26:39, 88, 36.66 W, 1305 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:26:46, 88, 36.78 W, 1305 MHz, 96 %, 5888 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=47.774772
+16:26:51, 89, 36.37 W, 1335 MHz, 95 %, 5880 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:26:57, 92, 24.39 W, 2250 MHz, 96 %, 5880 MiB, P0, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=31.848827
+16:27:02, 87, 30.54 W, 210 MHz, 100 %, 5880 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:27:09, 88, 35.61 W, 1305 MHz, 96 %, 5943 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=41.058294
+16:27:14, 89, 37.32 W, 1020 MHz, 97 %, 5943 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:27:20, 88, 35.37 W, 1320 MHz, 96 %, 5943 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=30.255804
+16:27:25, 88, 36.21 W, 1350 MHz, 96 %, 5943 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:27:31, 87, 41.95 W, 1155 MHz, 96 %, 5942 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=24.285249
+16:27:36, 89, 37.56 W, 1410 MHz, 96 %, 5942 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:27:43, 88, 34.34 W, 1245 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=21.444062
+16:27:48, 87, 36.34 W, 1320 MHz, 96 %, 5942 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:27:54, 89, 36.87 W, 1410 MHz, 96 %, 5942 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=19.672169
+16:27:59, 89, 36.76 W, 1395 MHz, 96 %, 5942 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:28:06, 93, 62.48 W, 1515 MHz, 96 %, 5941 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=37.200565
+16:28:11, 89, 38.70 W, 1500 MHz, 96 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:28:17, 89, 37.83 W, 1470 MHz, 95 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.629006
+16:28:22, 95, 52.74 W, 1395 MHz, 96 %, 5941 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:28:28, 89, 36.01 W, 1365 MHz, 96 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=24.287979
+16:28:34, 88, 36.08 W, 1410 MHz, 95 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:28:40, 94, 39.02 W, 285 MHz, 100 %, 5941 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=27.139185
+16:28:45, 89, 33.03 W, 1185 MHz, 100 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:28:51, 89, 32.05 W, 1260 MHz, 100 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=22.634214
+16:28:56, 88, 31.38 W, 1305 MHz, 100 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:29:03, 89, 38.79 W, 1665 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=22.576194
+16:29:08, 90, 39.83 W, 1620 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:29:14, 85, 32.10 W, 1920 MHz, 4 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=23.379325
+16:29:19, 88, 39.36 W, 1515 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:29:25, 88, 35.09 W, 1335 MHz, 99 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=31.677036
+16:29:31, 84, 22.01 W, 210 MHz, 100 %, 5953 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:29:37, 89, 33.48 W, 1305 MHz, 99 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=20.039871
+16:29:42, 88, 37.60 W, 1440 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:29:48, 88, 38.16 W, 1485 MHz, 97 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=25.144956
+16:29:53, 89, 39.46 W, 1485 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:30:00, 88, 37.49 W, 1410 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.878864
+16:30:05, 84, 18.23 W, 1920 MHz, 3 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:30:11, 88, 45.78 W, 210 MHz, 99 %, 5956 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=34.547779
+16:30:16, 85, 17.87 W, 1665 MHz, 3 %, 5952 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:30:23, 84, 24.05 W, 2460 MHz, 3 %, 5952 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=48.425341
+16:30:28, 89, 38.77 W, 1170 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:30:34, 88, 35.87 W, 1305 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=20.300963
+16:30:39, 88, 36.77 W, 1380 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:30:45, 92, 41.25 W, 210 MHz, 96 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=32.000278
+16:30:51, 90, 31.51 W, 360 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:30:57, 87, 25.83 W, 1110 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=16.990484
+16:31:02, 88, 31.52 W, 1230 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:31:08, 90, 36.22 W, 1380 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=17.644878
+16:31:13, 89, 48.58 W, 1485 MHz, 95 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:31:20, 87, 32.82 W, 1095 MHz, 99 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=34.063448
+16:31:25, 89, 32.54 W, 960 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:31:31, 88, 31.69 W, 1320 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=33.642725
+16:31:36, 87, 26.53 W, 960 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:31:43, 89, 40.09 W, 1500 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=30.869071
+16:31:48, 86, 30.98 W, 2460 MHz, 39 %, 5952 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, 
+16:31:54, 88, 30.76 W, 1200 MHz, 99 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=29.688342
+16:31:59, 88, 31.68 W, 1140 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:32:05, 87, 32.41 W, 1095 MHz, 99 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=23.864245
+16:32:10, 88, 32.78 W, 1245 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:32:17, 89, 40.26 W, 1515 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=20.271059
+16:32:22, 86, 30.32 W, 480 MHz, 99 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:32:28, 88, 37.45 W, 1305 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=22.726556
+16:32:33, 89, 38.07 W, 1245 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:32:40, 89, 35.03 W, 1335 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=19.900498
+16:32:45, 89, 23.42 W, 1920 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:32:51, 94, 59.47 W, 1440 MHz, 100 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=25.280298
+16:32:56, 88, 33.21 W, 1095 MHz, 100 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:33:02, 88, 36.96 W, 1380 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=35.801621
+16:33:08, 88, 37.73 W, 1440 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:33:14, 88, 36.17 W, 1365 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=64.831248
+16:33:19, 89, 31.94 W, 1260 MHz, 99 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:33:26, 88, 31.86 W, 1275 MHz, 99 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=40.621470
+16:33:31, 89, 32.09 W, 1290 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:33:37, 89, 32.62 W, 1320 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=19.767483
+16:33:42, 86, 28.30 W, 2460 MHz, 3 %, 5952 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, 
+16:33:48, 90, 33.25 W, 1335 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=33.046500
+16:33:53, 88, 30.77 W, 1365 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:34:00, 89, 34.49 W, 1395 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=32.086724
+16:34:05, 88, 33.63 W, 1170 MHz, 86 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:34:11, 86, 30.10 W, 2460 MHz, 3 %, 5952 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=22.990855
+16:34:16, 89, 36.54 W, 1140 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:34:23, 88, 30.91 W, 1440 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=28.713596
+16:34:28, 88, 31.69 W, 1215 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:34:34, 89, 33.33 W, 1320 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=26.586449
+16:34:39, 88, 39.36 W, 1365 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:34:46, 89, 37.90 W, 1410 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=29.060525
+16:34:51, 88, 32.49 W, 1215 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:34:57, 89, 34.12 W, 1335 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=18.294890
+16:35:02, 88, 35.03 W, 1365 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:35:08, 89, 34.25 W, 1275 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=23.118865
+16:35:13, 89, 39.09 W, 1590 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:35:20, 87, 26.53 W, 375 MHz, 99 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=22.300750
+16:35:25, 93, 63.80 W, 1920 MHz, 96 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:35:31, 88, 33.58 W, 1155 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=18.760433
+16:35:36, 89, 33.58 W, 1320 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:35:42, 89, 31.63 W, 1230 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=18.691890
+16:35:47, 88, 31.82 W, 1230 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:35:54, 89, 39.11 W, 1545 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.103695
+16:35:59, 84, 18.30 W, 1920 MHz, 3 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:36:05, 90, 34.68 W, 1050 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=17.702979
+16:36:10, 87, 27.90 W, 1275 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:36:17, 88, 27.79 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=37.151401
+16:36:22, 88, 36.28 W, 1395 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:36:28, 88, 38.49 W, 1215 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=35.779022
+16:36:33, 88, 37.94 W, 1425 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:36:39, 89, 15.36 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=36.292634
+16:36:45, 69, 10.32 W, 210 MHz, 16 %, 5952 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:36:51, 63, 6.51 W, 405 MHz, 44 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=90.181558
+16:36:56, 62, 7.73 W, 450 MHz, 17 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:37:03, 61, 7.63 W, 255 MHz, 41 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=91.219353
+16:37:08, 60, 6.95 W, 420 MHz, 17 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:37:14, 59, 5.20 W, 405 MHz, 42 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=92.330940
+16:37:19, 59, 7.43 W, 465 MHz, 17 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:37:26, 58, 7.33 W, 450 MHz, 17 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=343.000000 Processor Information(_Total)=70.879303
+16:37:31, 58, 5.12 W, 240 MHz, 38 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:37:38, 89, 49.44 W, 1440 MHz, 95 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=21.815859
+16:37:43, 89, 41.00 W, 1530 MHz, 95 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:37:49, 88, 38.21 W, 1920 MHz, 65 %, 5948 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=20.976873
+16:37:54, 90, 29.17 W, 1920 MHz, 96 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:38:01, 86, 22.75 W, 510 MHz, 100 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=24.050722
+16:38:06, 86, 31.28 W, 1920 MHz, 11 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:38:12, 89, 38.54 W, 1605 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=18.450241
+16:38:17, 88, 39.12 W, 1380 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:38:23, 88, 36.40 W, 1380 MHz, 95 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=38.019404
+16:38:28, 89, 38.23 W, 1365 MHz, 95 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:38:35, 88, 37.85 W, 1410 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=33.180917
+16:38:40, 88, 35.84 W, 1575 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:38:46, 89, 34.85 W, 1635 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=36.468273
+16:38:51, 89, 37.02 W, 1365 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:38:58, 89, 39.16 W, 1455 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=27.866753
+16:39:03, 83, 19.91 W, 2250 MHz, 3 %, 5952 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:39:09, 89, 48.29 W, 1395 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=20.395245
+16:39:14, 89, 37.45 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:39:20, 89, 37.54 W, 1200 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=21.036895
+16:39:26, 88, 36.03 W, 1335 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:39:32, 89, 38.28 W, 1455 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=21.417198
+16:39:37, 89, 36.73 W, 1365 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:39:43, 90, 39.90 W, 1125 MHz, 95 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=28.297554
+16:39:48, 89, 37.32 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:39:55, 88, 37.04 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=21.601404
+16:40:00, 88, 37.34 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:40:06, 88, 37.31 W, 1365 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=25.230593
+16:40:11, 89, 38.09 W, 1290 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:40:17, 88, 37.55 W, 1440 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=28.446913
+16:40:23, 90, 63.57 W, 1920 MHz, 94 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:40:29, 92, 64.46 W, 1920 MHz, 96 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=32.709194
+16:40:34, 85, 17.23 W, 1920 MHz, 3 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:40:40, 88, 36.63 W, 1425 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=26.362112
+16:40:45, 88, 35.39 W, 1425 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:40:52, 88, 35.43 W, 1305 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=33.536435
+16:40:57, 88, 34.39 W, 1215 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:41:03, 89, 39.23 W, 1335 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=32.006690
+16:41:08, 88, 36.97 W, 1410 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:41:15, 88, 36.49 W, 1155 MHz, 96 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=35.773925
+16:41:20, 88, 36.48 W, 1350 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:41:26, 95, 31.67 W, 2250 MHz, 95 %, 5952 MiB, P0, 0x0000000000000048, Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=36.844625
+16:41:31, 88, 17.89 W, 2250 MHz, 99 %, 5952 MiB, P0, 0x0000000000000004, Not Active, Not Active, Not Active, 
+16:41:37, 87, 15.87 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=21.207493
+16:41:42, 89, 33.59 W, 1245 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:41:49, 89, 37.75 W, 510 MHz, 96 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=20.188819
+16:41:54, 89, 37.08 W, 1335 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:42:00, 88, 36.83 W, 1350 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=25.897651
+16:42:05, 88, 33.76 W, 1425 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:42:12, 89, 37.19 W, 1380 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=19.957073
+16:42:17, 88, 37.61 W, 1365 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:42:23, 88, 36.69 W, 1410 MHz, 93 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.631552
+16:42:28, 88, 37.22 W, 1380 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:42:34, 88, 42.24 W, 1380 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=32.604494
+16:42:39, 88, 19.85 W, 240 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:42:46, 93, 34.12 W, 300 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=23.242892
+16:42:51, 92, 39.17 W, 645 MHz, 97 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:42:57, 87, 15.48 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=24.632774
+16:43:02, 89, 37.21 W, 1350 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:43:09, 88, 37.23 W, 1380 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=19.553573
+16:43:14, 87, 32.93 W, 1020 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:43:20, 92, 45.93 W, 510 MHz, 97 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=22.466998
+16:43:25, 89, 38.76 W, 1275 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:43:31, 90, 38.10 W, 1410 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=20.931487
+16:43:36, 95, 54.84 W, 570 MHz, 97 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:43:43, 91, 21.44 W, 210 MHz, 98 %, 5956 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=21.445223
+16:43:48, 88, 40.44 W, 1215 MHz, 95 %, 5956 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:43:54, 88, 36.76 W, 1365 MHz, 96 %, 5956 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=34.223101
+16:43:59, 91, 39.10 W, 1830 MHz, 94 %, 5956 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:44:06, 68, 10.27 W, 210 MHz, 19 %, 5956 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=82.973995
+16:44:11, 64, 6.03 W, 420 MHz, 36 %, 5956 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:44:17, 62, 6.35 W, 360 MHz, 42 %, 5956 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=86.905240
+16:44:22, 61, 7.67 W, 420 MHz, 17 %, 5956 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:44:29, 60, 4.26 W, 405 MHz, 39 %, 5956 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=19.676623
+16:44:34, 59, 7.25 W, 435 MHz, 18 %, 5956 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:44:40, 59, 7.84 W, 450 MHz, 22 %, 5956 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=73.870759
+16:44:45, 90, 57.01 W, 1800 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:44:52, 89, 51.26 W, 1590 MHz, 91 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=16.886269
+16:44:57, 92, 38.09 W, 1920 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:45:03, 94, 49.27 W, 1530 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=32.343420
+16:45:08, 88, 35.40 W, 1590 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:45:14, 90, 26.15 W, 1920 MHz, 96 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=21.517037
+16:45:19, 87, 33.30 W, 1410 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:45:26, 88, 37.99 W, 1245 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=19.747047
+16:45:31, 89, 40.88 W, 1185 MHz, 96 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:45:37, 88, 35.74 W, 1305 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=20.894953
+16:45:42, 85, 36.61 W, 1920 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:45:49, 86, 30.52 W, 1920 MHz, 17 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=23.113399
+16:45:54, 89, 39.37 W, 1545 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:46:00, 90, 39.23 W, 1470 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=23.937419
+16:46:05, 89, 38.92 W, 1440 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:46:11, 89, 38.26 W, 1470 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=20.931192
+16:46:16, 89, 37.41 W, 1635 MHz, 95 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:46:23, 89, 42.35 W, 1635 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=35.439079
+16:46:28, 89, 39.86 W, 1275 MHz, 96 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:46:34, 88, 37.28 W, 1395 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=47.344806
+16:46:39, 88, 37.56 W, 1380 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:46:45, 88, 36.84 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=36.510632
+16:46:51, 88, 37.03 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:46:57, 88, 37.35 W, 1395 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=43.676696
+16:47:02, 84, 27.11 W, 2460 MHz, 3 %, 5952 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, 
+16:47:08, 89, 37.93 W, 1425 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=26.576782
+16:47:13, 88, 39.92 W, 1500 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:47:20, 87, 15.74 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=24.664739
+16:47:25, 89, 28.59 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:47:31, 84, 22.60 W, 2130 MHz, 97 %, 5952 MiB, P0, 0x0000000000000004, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=23.040609
+16:47:36, 91, 19.46 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:47:42, 86, 16.45 W, 1680 MHz, 3 %, 5952 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=38.380629
+16:47:48, 69, 10.31 W, 210 MHz, 18 %, 5952 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:47:54, 63, 6.18 W, 375 MHz, 45 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=342.000000 Processor Information(_Total)=9.176982
+16:47:59, 61, 7.82 W, 270 MHz, 16 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:48:05, 59, 7.50 W, 435 MHz, 17 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=340.000000 Processor Information(_Total)=11.634555
+16:48:10, 58, 5.57 W, 330 MHz, 42 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:48:17, 57, 5.50 W, 315 MHz, 47 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=338.000000 Processor Information(_Total)=10.278428
+16:48:22, 88, 49.61 W, 1560 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:48:28, 83, 26.98 W, 1920 MHz, 3 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=22.480599
+16:48:33, 85, 28.43 W, 2460 MHz, 3 %, 5952 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, 
+16:48:39, 63, 5.85 W, 210 MHz, 39 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=84.385415
+16:48:45, 61, 5.87 W, 315 MHz, 46 %, 5948 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:48:51, 59, 5.25 W, 255 MHz, 37 %, 5948 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=94.246282
+16:48:56, 59, 4.72 W, 345 MHz, 38 %, 5940 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:49:03, 58, 5.50 W, 270 MHz, 37 %, 5940 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=51.510689
+16:49:08, 88, 46.06 W, 1620 MHz, 96 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:49:14, 89, 44.00 W, 1290 MHz, 95 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=18.155619
+16:49:19, 88, 39.68 W, 1020 MHz, 100 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:49:26, 88, 37.04 W, 1425 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=19.353493
+16:49:31, 96, 63.28 W, 2340 MHz, 100 %, 5940 MiB, P3, 0x000000000000004C, Active, Not Active, Not Active, 
+16:49:37, 88, 38.41 W, 1560 MHz, 96 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=18.742627
+16:49:42, 90, 31.44 W, 825 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:49:48, 87, 41.80 W, 1155 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=26.018408
+16:49:54, 94, 68.56 W, 1590 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:50:00, 89, 38.56 W, 1440 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=32.347280
+16:50:05, 82, 15.61 W, 1740 MHz, 3 %, 5952 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:50:11, 88, 35.02 W, 1260 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=48.471284
+16:50:16, 88, 37.59 W, 1485 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:50:23, 88, 35.85 W, 1350 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=56.003045
+16:50:28, 89, 36.97 W, 1440 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:50:34, 94, 45.31 W, 1920 MHz, 100 %, 5944 MiB, P3, 0x0000000000000068, Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=34.115579
+16:50:39, 88, 36.40 W, 1545 MHz, 95 %, 5944 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:50:46, 87, 33.33 W, 1335 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=21.224319
+16:50:51, 87, 33.42 W, 1215 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:50:57, 89, 38.13 W, 1440 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=20.781746
+16:51:02, 87, 29.00 W, 795 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:51:08, 89, 39.35 W, 1485 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=20.077605
+16:51:13, 89, 39.00 W, 1485 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:51:20, 88, 37.65 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=20.646511
+16:51:25, 88, 37.97 W, 1410 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:51:31, 88, 38.28 W, 1395 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=35.053712
+16:51:36, 88, 37.92 W, 1410 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:51:43, 88, 31.37 W, 1215 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=18.152751
+16:51:48, 91, 35.92 W, 1230 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:51:54, 89, 32.91 W, 1335 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=18.704838
+16:51:59, 88, 37.87 W, 1380 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:52:05, 94, 46.98 W, 1560 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=24.212321
+16:52:10, 87, 38.08 W, 1365 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:52:17, 89, 39.28 W, 1485 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=19.638367
+16:52:22, 88, 37.51 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:52:28, 89, 38.77 W, 1545 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.669703
+16:52:33, 85, 13.90 W, 1920 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:52:40, 88, 31.78 W, 1170 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=25.842775
+16:52:45, 88, 29.45 W, 1275 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:52:51, 88, 34.05 W, 1590 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=44.289572
+16:52:56, 89, 39.36 W, 1470 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:53:03, 85, 14.32 W, 210 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=32.861282
+16:53:08, 90, 35.20 W, 1395 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:53:14, 89, 33.81 W, 1350 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=19.537335
+16:53:19, 89, 32.49 W, 1350 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:53:25, 90, 39.02 W, 1320 MHz, 99 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=17.295766
+16:53:31, 88, 42.33 W, 1515 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:53:37, 89, 32.30 W, 1065 MHz, 100 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=28.403626
+16:53:42, 90, 35.97 W, 1050 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:53:48, 93, 50.43 W, 1215 MHz, 100 %, 5948 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=27.930855
+16:53:53, 88, 33.77 W, 1365 MHz, 100 %, 5948 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:54:00, 85, 30.65 W, 1920 MHz, 21 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=38.157573
+16:54:05, 89, 33.42 W, 810 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:54:11, 89, 33.84 W, 1320 MHz, 98 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=44.001955
+16:54:16, 89, 32.84 W, 1485 MHz, 99 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:54:23, 86, 21.22 W, 375 MHz, 100 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.749809
+16:54:28, 88, 37.75 W, 1410 MHz, 97 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:54:34, 87, 31.09 W, 1350 MHz, 98 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.168574
+16:54:39, 88, 32.40 W, 1260 MHz, 100 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:54:46, 88, 29.86 W, 1440 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=17.648044
+16:54:51, 89, 32.96 W, 1290 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:54:57, 89, 41.24 W, 765 MHz, 91 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=18.699751
+16:55:02, 88, 39.47 W, 1635 MHz, 96 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:55:08, 88, 30.48 W, 1155 MHz, 100 %, 5941 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=16.749087
+16:55:13, 88, 29.37 W, 1155 MHz, 100 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:55:20, 88, 32.58 W, 1440 MHz, 99 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=16.420879
+16:55:25, 94, 36.97 W, 1920 MHz, 99 %, 5941 MiB, P0, 0x0000000000000068, Active, Active, Not Active, 
+16:55:31, 89, 40.47 W, 1545 MHz, 97 %, 5941 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=46.822676
+16:55:36, 85, 22.16 W, 210 MHz, 100 %, 5941 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:55:43, 88, 29.56 W, 1335 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=27.489350
+16:55:48, 89, 36.41 W, 1395 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:55:54, 88, 32.47 W, 1290 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=33.481389
+16:55:59, 87, 25.39 W, 780 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:56:06, 84, 20.61 W, 2460 MHz, 3 %, 5952 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=38.228300
+16:56:11, 88, 34.54 W, 1155 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:56:17, 87, 29.50 W, 975 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=20.925869
+16:56:22, 88, 31.19 W, 1260 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:56:28, 87, 36.86 W, 795 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=16.403353
+16:56:33, 88, 37.33 W, 1410 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:56:40, 87, 32.33 W, 1155 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=16.966308
+16:56:45, 87, 32.65 W, 1155 MHz, 99 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:56:51, 89, 32.97 W, 1275 MHz, 100 %, 5948 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=43.181081
+16:56:56, 88, 33.21 W, 1470 MHz, 100 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:57:03, 74, 10.77 W, 480 MHz, 8 %, 5940 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=52.564553
+16:57:08, 65, 5.42 W, 210 MHz, 37 %, 5940 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:57:14, 62, 8.26 W, 480 MHz, 21 %, 5940 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=74.700228
+16:57:19, 61, 5.25 W, 255 MHz, 36 %, 5940 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:57:26, 60, 8.01 W, 450 MHz, 23 %, 5940 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=86.539249
+16:57:31, 59, 4.35 W, 360 MHz, 40 %, 5940 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+16:57:37, 88, 49.54 W, 1650 MHz, 99 %, 5940 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=352.000000 Processor Information(_Total)=46.582914
+16:57:43, 89, 43.32 W, 1605 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:57:49, 88, 41.14 W, 1425 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=18.444401
+16:57:54, 84, 19.32 W, 2460 MHz, 3 %, 5952 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, 
+16:58:00, 88, 39.13 W, 1530 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=33.821621
+16:58:05, 89, 37.94 W, 1380 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:58:12, 87, 34.56 W, 1140 MHz, 96 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=30.456279
+16:58:17, 89, 27.08 W, 1920 MHz, 49 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:58:23, 87, 17.47 W, 1920 MHz, 6 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=21.604185
+16:58:28, 89, 38.16 W, 1500 MHz, 96 %, 5944 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:58:35, 89, 36.88 W, 1155 MHz, 96 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=22.308656
+16:58:40, 90, 39.86 W, 1305 MHz, 96 %, 5940 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+16:58:46, 89, 39.29 W, 1275 MHz, 95 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=21.756607
+16:58:51, 84, 17.00 W, 1920 MHz, 3 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:58:57, 89, 38.45 W, 1455 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=20.311274
+16:59:02, 89, 38.12 W, 1455 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:59:09, 88, 38.90 W, 1515 MHz, 94 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=22.050067
+16:59:14, 86, 21.88 W, 600 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:59:20, 88, 29.83 W, 1170 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.283041
+16:59:25, 89, 40.26 W, 1500 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:59:32, 88, 37.41 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=23.010291
+16:59:37, 88, 37.18 W, 1395 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+16:59:43, 88, 37.79 W, 1395 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=358.000000 Processor Information(_Total)=20.746391
+16:59:48, 89, 21.38 W, 1920 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+16:59:54, 93, 52.61 W, 1335 MHz, 95 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=41.008257
+16:59:59, 88, 35.06 W, 1485 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:00:06, 85, 20.76 W, 1920 MHz, 3 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=26.945814
+17:00:11, 89, 40.62 W, 1560 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:00:17, 89, 37.66 W, 1485 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=21.464684
+17:00:22, 90, 41.91 W, 255 MHz, 98 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:00:29, 88, 36.39 W, 1440 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=40.793828
+17:00:34, 88, 37.21 W, 1365 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:00:40, 88, 36.18 W, 1350 MHz, 96 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=30.815974
+17:00:45, 85, 18.23 W, 1920 MHz, 4 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:00:52, 87, 25.37 W, 1200 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=28.282328
+17:00:57, 90, 32.51 W, 1305 MHz, 91 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:01:03, 89, 38.05 W, 1440 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.368628
+17:01:08, 89, 40.28 W, 1275 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:01:14, 88, 32.64 W, 1275 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=41.771749
+17:01:19, 89, 32.99 W, 1155 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:01:26, 89, 34.26 W, 1410 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=21.689393
+17:01:31, 88, 32.62 W, 1350 MHz, 100 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+17:01:37, 86, 28.25 W, 2460 MHz, 2 %, 5940 MiB, P0, 0x0000000000000400, Not Active, Not Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=42.543553
+17:01:42, 87, 32.00 W, 1410 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:01:49, 89, 32.98 W, 1305 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=353.000000 Processor Information(_Total)=19.093635
+17:01:54, 94, 37.01 W, 1500 MHz, 99 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+17:02:00, 88, 30.86 W, 1275 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=-1
+17:02:05, 82, 24.78 W, 2460 MHz, 3 %, 5952 MiB, P4, 0x0000000000000400, Not Active, Not Active, Not Active, 
+17:02:11, 89, 33.81 W, 1245 MHz, 100 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=355.000000 Processor Information(_Total)=20.273944
+17:02:16, 89, 35.05 W, 1335 MHz, 99 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:02:23, 87, 34.08 W, 780 MHz, 100 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=351.000000 Processor Information(_Total)=18.229945
+17:02:28, 88, 32.72 W, 1440 MHz, 99 %, 5952 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+17:02:34, 89, 39.84 W, 1275 MHz, 97 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=47.951772
+17:02:39, 95, 57.93 W, 1770 MHz, 94 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:02:46, 70, 10.36 W, 300 MHz, 12 %, 5952 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=108.473357
+17:02:51, 64, 7.38 W, 450 MHz, 19 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+17:02:57, 62, 5.70 W, 285 MHz, 44 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=45.319959
+17:03:02, 60, 7.56 W, 495 MHz, 16 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, 
+17:03:09, 60, 7.39 W, 480 MHz, 26 %, 5952 MiB, P5, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=369.000000 Processor Information(_Total)=81.954875
+17:03:14, 59, 4.72 W, 285 MHz, 37 %, 5952 MiB, P8, 0x0000000000000001, Not Active, Not Active, Not Active, 
+17:03:20, 90, 45.20 W, 1590 MHz, 91 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=348.000000 Processor Information(_Total)=19.861887
+17:03:25, 88, 30.31 W, 915 MHz, 99 %, 5952 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:03:32, 88, 40.48 W, 1365 MHz, 97 %, 5944 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=22.183452
+17:03:37, 89, 40.45 W, 1485 MHz, 95 %, 5940 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:03:43, 89, 39.69 W, 1485 MHz, 95 %, 5952 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=364.000000 Processor Information(_Total)=39.351737
+17:03:48, 88, 38.17 W, 1425 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:03:55, 88, 33.87 W, 1410 MHz, 97 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=363.000000 Processor Information(_Total)=34.609144
+17:04:00, 88, 36.94 W, 1380 MHz, 95 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:04:06, 93, 41.53 W, 1350 MHz, 95 %, 5949 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=36.519322
+17:04:11, 88, 36.53 W, 1350 MHz, 96 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:04:17, 89, 36.92 W, 1485 MHz, 95 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.301276
+17:04:23, 88, 35.66 W, 810 MHz, 97 %, 5949 MiB, P3, 0x0000000000000020, Not Active, Active, Not Active, 
+17:04:29, 89, 39.25 W, 1500 MHz, 95 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=19.654514
+17:04:34, 87, 33.92 W, 1155 MHz, 97 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:04:40, 89, 37.72 W, 1530 MHz, 97 %, 5949 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=19.930027
+17:04:45, 89, 38.92 W, 1470 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:04:52, 89, 40.92 W, 210 MHz, 97 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=356.000000 Processor Information(_Total)=21.461356
+17:04:57, 92, 66.58 W, 1920 MHz, 94 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:05:03, 88, 37.06 W, 1365 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=354.000000 Processor Information(_Total)=21.969665
+17:05:08, 88, 36.47 W, 1470 MHz, 95 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:05:14, 88, 36.63 W, 1365 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=28.843935
+17:05:20, 89, 40.90 W, 1230 MHz, 95 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:05:26, 88, 36.56 W, 1350 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=24.509129
+17:05:31, 89, 38.05 W, 1455 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:05:37, 89, 39.30 W, 1470 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=21.319782
+17:05:42, 81, 15.46 W, 1725 MHz, 3 %, 5961 MiB, P3, 0x0000000000000001, Not Active, Not Active, Not Active, 
+17:05:49, 89, 37.94 W, 1395 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=361.000000 Processor Information(_Total)=20.383420
+17:05:54, 88, 37.55 W, 1380 MHz, 95 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:06:00, 86, 16.13 W, 1185 MHz, 100 %, 5961 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=27.284512
+17:06:05, 89, 38.84 W, 1485 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:06:11, 89, 39.23 W, 1305 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=36.732564
+17:06:17, 91, 36.40 W, 210 MHz, 100 %, 5961 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:06:23, 88, 34.64 W, 1260 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=35.770401
+17:06:28, 89, 36.54 W, 1365 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:06:34, 89, 37.10 W, 1380 MHz, 96 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=49.343784
+17:06:39, 88, 37.08 W, 1365 MHz, 97 %, 5961 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:06:46, 96, 39.30 W, 1545 MHz, 97 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=36.355171
+17:06:51, 87, 28.83 W, 2250 MHz, 94 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:06:57, 88, 28.51 W, 255 MHz, 99 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=22.783082
+17:07:02, 89, 38.22 W, 1470 MHz, 97 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:07:08, 93, 27.89 W, 2250 MHz, 96 %, 5953 MiB, P0, 0x0000000000000001, Not Active, Not Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=23.224259
+17:07:14, 84, 14.93 W, 210 MHz, 100 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:07:20, 88, 34.81 W, 1440 MHz, 95 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=362.000000 Processor Information(_Total)=30.442377
+17:07:25, 87, 34.54 W, 1185 MHz, 97 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:07:31, 85, 31.40 W, 1920 MHz, 4 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=35.573808
+17:07:36, 89, 38.10 W, 1110 MHz, 95 %, 5942 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:07:43, 88, 36.70 W, 1395 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=33.716955
+17:07:48, 89, 37.25 W, 1350 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:07:54, 89, 37.23 W, 1440 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=368.000000 Processor Information(_Total)=61.495545
+17:07:59, 85, 24.40 W, 2460 MHz, 2 %, 5953 MiB, P3, 0x0000000000000400, Not Active, Not Active, Not Active, 
+17:08:06, 93, 55.45 W, 1275 MHz, 95 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=366.000000 Processor Information(_Total)=33.557846
+17:08:11, 88, 34.71 W, 1245 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:08:17, 89, 38.47 W, 1440 MHz, 95 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=31.544833
+17:08:22, 87, 31.63 W, 1365 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:08:29, 89, 36.32 W, 1335 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=360.000000 Processor Information(_Total)=32.554857
+17:08:34, 84, 17.30 W, 1920 MHz, 4 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:08:40, 88, 34.54 W, 1260 MHz, 97 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=29.678153
+17:08:45, 88, 35.56 W, 1335 MHz, 97 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:08:51, 89, 36.16 W, 1485 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=29.921163
+17:08:57, 89, 35.27 W, 1230 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:09:03, 88, 33.42 W, 1380 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=359.000000 Processor Information(_Total)=19.395540
+17:09:08, 88, 34.53 W, 1305 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:09:14, 88, 37.27 W, 1590 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=367.000000 Processor Information(_Total)=32.693627
+17:09:19, 82, 15.78 W, 1800 MHz, 3 %, 5953 MiB, P4, 0x0000000000000001, Not Active, Not Active, Not Active, 
+17:09:26, 88, 38.79 W, 1410 MHz, 94 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=22.248423
+17:09:31, 88, 39.28 W, 1485 MHz, 97 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:09:37, 90, 40.12 W, 1455 MHz, 96 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=357.000000 Processor Information(_Total)=19.133013
+17:09:42, 88, 36.88 W, 1395 MHz, 97 %, 5953 MiB, P4, 0x0000000000000020, Not Active, Active, Not Active, 
+17:09:49, 96, 61.22 W, 1770 MHz, 95 %, 5953 MiB, P0, 0x0000000000000068, Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=33.425307
+17:09:54, 96, 66.57 W, 1425 MHz, 96 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, 
+17:10:00, 92, 36.23 W, 210 MHz, 99 %, 5953 MiB, P0, 0x0000000000000020, Not Active, Active, Not Active, _TZ.THRM)=365.000000 Processor Information(_Total)=36.272978

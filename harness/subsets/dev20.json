@@ -1,0 +1,155 @@
+{
+  "name": "dev20",
+  "frozen": "2026-10-21",
+  "seed": 20261021,
+  "method": "stratified by repo quota and gold-patch size tertile; env-unstable tasks excluded",
+  "size_bins_lines": {
+    "small": "< 5",
+    "medium": "5-30",
+    "large": ">= 31"
+  },
+  "task_ids": [
+    "fastapi_13713",
+    "fastapi_14303",
+    "fastapi_14430",
+    "fastapi_14455",
+    "fastapi_14463",
+    "fastapi_14485",
+    "fastapi_14605",
+    "fastapi_14978",
+    "fastapi_14986",
+    "fastapi_5077",
+    "httpx_3672",
+    "requests_6644",
+    "requests_7309",
+    "rich_2725",
+    "rich_3006",
+    "rich_3052",
+    "rich_3471",
+    "rich_3480",
+    "rich_3675",
+    "rich_3676"
+  ],
+  "tasks": {
+    "fastapi_13713": {
+      "repo": "fastapi/fastapi",
+      "files": 2,
+      "lines": 31,
+      "bin": "large"
+    },
+    "fastapi_14303": {
+      "repo": "fastapi/fastapi",
+      "files": 1,
+      "lines": 8,
+      "bin": "medium"
+    },
+    "fastapi_14430": {
+      "repo": "fastapi/fastapi",
+      "files": 1,
+      "lines": 4,
+      "bin": "small"
+    },
+    "fastapi_14455": {
+      "repo": "fastapi/fastapi",
+      "files": 1,
+      "lines": 13,
+      "bin": "medium"
+    },
+    "fastapi_14463": {
+      "repo": "fastapi/fastapi",
+      "files": 1,
+      "lines": 3,
+      "bin": "small"
+    },
+    "fastapi_14485": {
+      "repo": "fastapi/fastapi",
+      "files": 1,
+      "lines": 19,
+      "bin": "medium"
+    },
+    "fastapi_14605": {
+      "repo": "fastapi/fastapi",
+      "files": 7,
+      "lines": 44,
+      "bin": "large"
+    },
+    "fastapi_14978": {
+      "repo": "fastapi/fastapi",
+      "files": 3,
+      "lines": 82,
+      "bin": "large"
+    },
+    "fastapi_14986": {
+      "repo": "fastapi/fastapi",
+      "files": 2,
+      "lines": 34,
+      "bin": "large"
+    },
+    "fastapi_5077": {
+      "repo": "fastapi/fastapi",
+      "files": 1,
+      "lines": 6,
+      "bin": "medium"
+    },
+    "httpx_3672": {
+      "repo": "encode/httpx",
+      "files": 7,
+      "lines": 79,
+      "bin": "large"
+    },
+    "requests_6644": {
+      "repo": "psf/requests",
+      "files": 1,
+      "lines": 3,
+      "bin": "small"
+    },
+    "requests_7309": {
+      "repo": "psf/requests",
+      "files": 1,
+      "lines": 15,
+      "bin": "medium"
+    },
+    "rich_2725": {
+      "repo": "Textualize/rich",
+      "files": 1,
+      "lines": 10,
+      "bin": "medium"
+    },
+    "rich_3006": {
+      "repo": "Textualize/rich",
+      "files": 1,
+      "lines": 2,
+      "bin": "small"
+    },
+    "rich_3052": {
+      "repo": "Textualize/rich",
+      "files": 1,
+      "lines": 34,
+      "bin": "large"
+    },
+    "rich_3471": {
+      "repo": "Textualize/rich",
+      "files": 1,
+      "lines": 1,
+      "bin": "small"
+    },
+    "rich_3480": {
+      "repo": "Textualize/rich",
+      "files": 1,
+      "lines": 4,
+      "bin": "small"
+    },
+    "rich_3675": {
+      "repo": "Textualize/rich",
+      "files": 2,
+      "lines": 41,
+      "bin": "large"
+    },
+    "rich_3676": {
+      "repo": "Textualize/rich",
+      "files": 2,
+      "lines": 13,
+      "bin": "medium"
+    }
+  }
+}

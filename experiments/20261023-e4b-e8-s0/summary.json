@@ -1,0 +1,74 @@
+{
+ "run_id": "20261023-e4b-e8-s0",
+ "date": "2026-10-24",
+ "model": "e4b-qat-ollama",
+ "backend": "ollama",
+ "subset": "dev20",
+ "seed": 0,
+ "parent_run_id": "20261023-e4b-e6e7v2-s0",
+ "config_diff": "E8: one mandatory get_code_neighbors per edited function right after the first edit, then a same-change check on linked code (on top of E6+E7 v2)",
+ "n_tasks": 20,
+ "n_resolved": 3,
+ "resolve_rate": 0.15,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 0.8,
+ "timeout_rate": 0.1,
+ "tool_error_rate": 0.2294,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 0.9,
+ "stop_reasons": {
+  "ended": 2,
+  "submit": 16,
+  "timeout": 2
+ },
+ "turns": {
+  "mean": 21.8,
+  "median": 19.0
+ },
+ "tool_calls": {
+  "mean": 19.4,
+  "median": 17.5
+ },
+ "prompt_tokens": {
+  "mean": 430214.05,
+  "median": 349695.5
+ },
+ "completion_tokens": {
+  "mean": 8613.35,
+  "median": 7306.0
+ },
+ "wall_s": {
+  "mean": 385.77,
+  "median": 299.04499999999996
+ },
+ "peak_context_tokens": {
+  "mean": 24080.95,
+  "median": 25620.0
+ },
+ "tool_usage": {
+  "search_similar_code": 48,
+  "read_file": 164,
+  "edit_file": 84,
+  "run_command": 58,
+  "submit_patch": 16,
+  "get_code_neighbors": 9,
+  "write_file": 9
+ },
+ "edit_file_failure_rate": 0.6071,
+ "repro_run_rate": 0.65,
+ "repro_after_edit_rate": 0.55,
+ "pytest_run_rate": 0.4,
+ "function_hit_rate": 0.75,
+ "graph_call_rate": 0.1469,
+ "neighbor_calls_per_task": 0.45,
+ "fewer_files_than_gold": 6,
+ "resolved_by_traceback": {
+  "has_traceback": "1/2",
+  "no_traceback": "2/18"
+ },
+ "resolved_ids": [
+  "fastapi_14303",
+  "fastapi_14463",
+  "requests_6644"
+ ]
+}

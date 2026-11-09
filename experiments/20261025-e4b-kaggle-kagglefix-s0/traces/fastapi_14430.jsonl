@@ -1,0 +1,10 @@
+{"turn": 1, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 3241, "completion_tokens": 180, "thinking_tokens": 151, "elapsed_s": 8.120790719985962}
+{"turn": 1, "role": "text", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 8.120790719985962}
+{"turn": 1, "role": "tool_call", "tool_name": "search_similar_code", "tool_ok": true, "tool_result_chars": 1233, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 8.120790719985962}
+{"turn": 2, "role": "tool_call", "tool_name": "search_similar_code", "tool_ok": true, "tool_result_chars": 4176, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 9.569091320037842}
+{"turn": 3, "role": "tool_call", "tool_name": "read_file", "tool_ok": true, "tool_result_chars": 4952, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 11.653059959411621}
+{"turn": 4, "role": "tool_call", "tool_name": "edit_file", "tool_ok": true, "tool_result_chars": 584, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 34.958613872528076}
+{"turn": 5, "role": "tool_call", "tool_name": "run_command", "tool_ok": false, "tool_result_chars": 10293, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 36.66589283943176}
+{"turn": 6, "role": "thinking", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": 12499, "completion_tokens": 439, "thinking_tokens": 373, "elapsed_s": 49.22748899459839}
+{"turn": 6, "role": "text", "tool_name": null, "tool_ok": null, "tool_result_chars": 0, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 49.22748899459839}
+{"turn": 7, "role": "tool_call", "tool_name": "submit_patch", "tool_ok": true, "tool_result_chars": 55, "prompt_tokens": null, "completion_tokens": null, "thinking_tokens": null, "elapsed_s": 49.22748899459839}

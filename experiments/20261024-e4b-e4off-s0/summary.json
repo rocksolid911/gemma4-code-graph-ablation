@@ -1,0 +1,74 @@
+{
+ "run_id": "20261024-e4b-e4off-s0",
+ "date": "2026-10-24",
+ "model": "e4b-qat-ollama",
+ "backend": "ollama",
+ "subset": "dev20",
+ "seed": 0,
+ "parent_run_id": "20261023-e4b-e6e7v2-s0",
+ "config_diff": "E4 off: graph tools removed from agent.yaml; Locate step uses grep instead of search_similar_code (base E6+E7 v2)",
+ "n_tasks": 20,
+ "n_resolved": 5,
+ "resolve_rate": 0.25,
+ "patch_applies_rate": 1.0,
+ "submitted_rate": 0.9,
+ "timeout_rate": 0.05,
+ "tool_error_rate": 0.2866,
+ "truncated_tool_call_rate": 0.0,
+ "localization_hit_rate": 0.9,
+ "stop_reasons": {
+  "submit": 18,
+  "timeout": 1,
+  "max_turns": 1
+ },
+ "turns": {
+  "mean": 17.75,
+  "median": 13.5
+ },
+ "tool_calls": {
+  "mean": 16.4,
+  "median": 12.5
+ },
+ "prompt_tokens": {
+  "mean": 269883.6,
+  "median": 139501.0
+ },
+ "completion_tokens": {
+  "mean": 8383.6,
+  "median": 5528.5
+ },
+ "wall_s": {
+  "mean": 297.99,
+  "median": 212.635
+ },
+ "peak_context_tokens": {
+  "mean": 18478.1,
+  "median": 15306.0
+ },
+ "tool_usage": {
+  "run_command": 87,
+  "read_file": 116,
+  "edit_file": 86,
+  "submit_patch": 18,
+  "write_file": 21
+ },
+ "edit_file_failure_rate": 0.5116,
+ "repro_run_rate": 0.25,
+ "repro_after_edit_rate": 0.2,
+ "pytest_run_rate": 0.8,
+ "function_hit_rate": 0.75,
+ "graph_call_rate": 0.0,
+ "neighbor_calls_per_task": 0.0,
+ "fewer_files_than_gold": 7,
+ "resolved_by_traceback": {
+  "has_traceback": "1/2",
+  "no_traceback": "4/18"
+ },
+ "resolved_ids": [
+  "fastapi_14303",
+  "fastapi_14455",
+  "requests_7309",
+  "rich_2725",
+  "rich_3006"
+ ]
+}

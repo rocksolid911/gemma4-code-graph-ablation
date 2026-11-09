@@ -1,0 +1,237 @@
+== A. E4B ablation (Ollama, 15 min, 60 calls, no compaction, 20 scoreable)
+off: runs=3 scores=[5, 6, 5] mean=5.33 sd=0.58 range=5-6
+    task_runs=60 graph_calls=0 of 929 (0.0%) per_task=0.00 file_hit=0.88 function_hit=0.75 phi(function_hit,resolved)=0.17 task_runs_with_graph_call=0
+    peak_ctx_median=16657.5 over_26624=12 wall_mean=274s calls_median=12.5 edit_failures=120 of 236 (51%) stops={'submit': 58, 'max_turns': 1, 'timeout': 1}
+    tool_usage={'run_command': 270, 'read_file': 292, 'edit_file': 236, 'submit_patch': 58, 'write_file': 73}
+on: runs=3 scores=[6, 4, 3] mean=4.33 sd=1.53 range=3-6
+    task_runs=60 graph_calls=212 of 1213 (17.5%) per_task=3.53 file_hit=0.83 function_hit=0.58 phi(function_hit,resolved)=0.2 task_runs_with_graph_call=51
+    peak_ctx_median=24937.0 over_26624=28 wall_mean=385s calls_median=16.5 edit_failures=152 of 268 (57%) stops={'submit': 52, 'ended': 5, 'timeout': 3}
+    tool_usage={'search_similar_code': 205, 'read_file': 470, 'get_code_neighbors': 6, 'edit_file': 268, 'run_command': 186, 'submit_patch': 52, 'write_file': 24, 'get_code_subgraph': 1, 'get_status': 1}
+skill: runs=3 scores=[3, 6, 5] mean=4.67 sd=1.53 range=3-6
+    task_runs=60 graph_calls=167 of 1277 (13.1%) per_task=2.78 file_hit=0.83 function_hit=0.67 phi(function_hit,resolved)=0.22 task_runs_with_graph_call=56
+    peak_ctx_median=24580.0 over_26624=27 wall_mean=370s calls_median=19.0 edit_failures=180 of 281 (64%) stops={'timeout': 4, 'submit': 52, 'ended': 4}
+    tool_usage={'load_skill': 57, 'search_similar_code': 161, 'read_file': 479, 'edit_file': 281, 'run_command': 204, 'submit_patch': 52, 'write_file': 36, 'get_code_neighbors': 6, 'list_skills': 1}
+placebo: runs=3 scores=[5, 3, 3] mean=3.67 sd=1.15 range=3-5
+    task_runs=60 graph_calls=132 of 1222 (10.8%) per_task=2.20 file_hit=0.83 function_hit=0.55 phi(function_hit,resolved)=0.43 task_runs_with_graph_call=44
+    peak_ctx_median=19788.0 over_26624=14 wall_mean=357s calls_median=17.0 edit_failures=140 of 251 (56%) stops={'max_turns': 2, 'submit': 48, 'ended': 6, 'timeout': 4}
+    tool_usage={'search_similar_code': 130, 'read_file': 600, 'edit_file': 251, 'run_command': 161, 'submit_patch': 48, 'write_file': 28, 'get_code_neighbors': 2, 'get_status': 2}
+O1: runs=2 scores=[2, 4] mean=3 sd=1.41 range=2-4
+    task_runs=40 graph_calls=77 of 756 (10.2%) per_task=1.93 file_hit=1.00 function_hit=0.80 phi(function_hit,resolved)=0.21 task_runs_with_graph_call=24
+    peak_ctx_median=26077.0 over_26624=18 wall_mean=359s calls_median=17.0 edit_failures=107 of 183 (58%) stops={'submit': 35, 'ended': 4, 'timeout': 1}
+    tool_usage={'read_file': 337, 'edit_file': 183, 'write_file': 11, 'submit_patch': 35, 'search_similar_code': 72, 'run_command': 113, 'get_code_neighbors': 5}
+
+== B. Single-run E4B arms, same conditions
+skill never loaded: runs=1 scores=[4] mean=4 sd=None range=4-4
+    task_runs=20 graph_calls=46 of 405 (11.4%) per_task=2.30 file_hit=0.85 function_hit=0.60 phi(function_hit,resolved)=0.15 task_runs_with_graph_call=15
+    peak_ctx_median=25856.0 over_26624=9 wall_mean=344s calls_median=19.0 edit_failures=34 of 72 (47%) stops={'submit': 18, 'timeout': 1, 'ended': 1}
+    tool_usage={'search_similar_code': 45, 'read_file': 169, 'run_command': 81, 'edit_file': 72, 'write_file': 19, 'submit_patch': 18, 'get_code_neighbors': 1}
+E8 required neighbour check: runs=1 scores=[3] mean=3 sd=None range=3-3
+    task_runs=20 graph_calls=57 of 388 (14.7%) per_task=2.85 file_hit=0.90 function_hit=0.75 phi(function_hit,resolved)=-0.08 task_runs_with_graph_call=18
+    peak_ctx_median=25620.0 over_26624=10 wall_mean=386s calls_median=17.5 edit_failures=51 of 84 (61%) stops={'submit': 16, 'timeout': 2, 'ended': 2}
+    tool_usage={'search_similar_code': 48, 'read_file': 164, 'edit_file': 84, 'run_command': 58, 'submit_patch': 16, 'get_code_neighbors': 9, 'write_file': 9}
+O2 graph neighbours hint: runs=1 scores=[6] mean=6 sd=None range=6-6
+    task_runs=20 graph_calls=57 of 364 (15.7%) per_task=2.85 file_hit=0.95 function_hit=0.75 phi(function_hit,resolved)=0.38 task_runs_with_graph_call=13
+    peak_ctx_median=16956.5 over_26624=7 wall_mean=313s calls_median=12.0 edit_failures=20 of 51 (39%) stops={'ended': 2, 'submit': 17, 'timeout': 1}
+    tool_usage={'read_file': 155, 'edit_file': 51, 'search_similar_code': 53, 'run_command': 66, 'write_file': 18, 'submit_patch': 17, 'get_code_neighbors': 3, 'get_code_subgraph': 1}
+O3 failing tests hint: runs=1 scores=[6] mean=6 sd=None range=6-6
+    task_runs=20 graph_calls=46 of 431 (10.7%) per_task=2.30 file_hit=0.90 function_hit=0.70 phi(function_hit,resolved)=0.43 task_runs_with_graph_call=13
+    peak_ctx_median=25649.5 over_26624=9 wall_mean=397s calls_median=20.0 edit_failures=67 of 102 (66%) stops={'ended': 4, 'submit': 16}
+    tool_usage={'search_similar_code': 46, 'read_file': 170, 'edit_file': 102, 'write_file': 9, 'run_command': 88, 'submit_patch': 16}
+O1 first run only: runs=1 scores=[2] mean=2 sd=None range=2-2
+    task_runs=20 graph_calls=36 of 383 (9.4%) per_task=1.80 file_hit=1.00 function_hit=0.85 phi(function_hit,resolved)=0.14 task_runs_with_graph_call=13
+    peak_ctx_median=24269.0 over_26624=8 wall_mean=344s calls_median=16.5 edit_failures=63 of 104 (61%) stops={'submit': 18, 'ended': 2}
+    tool_usage={'read_file': 174, 'edit_file': 104, 'write_file': 2, 'submit_patch': 18, 'search_similar_code': 33, 'run_command': 49, 'get_code_neighbors': 3}
+
+== C. Paired by task: a minus b, 95% task bootstrap (20,000 resamples, not corrected for multiple comparisons)
+-- on - off: resolved per run (-1.0, -4.0, 1.67); sign-flip (p, tasks that differ) (0.688, 5)
+     peak_context_tokens: (7713.88, 4441.47, 11426.57)
+     wall_s: (111.33, 62.65, 161.23)
+     tool_calls: (4.73, 1.62, 7.97)
+     function_hit: (-0.17, -0.3, -0.03)
+     localization_hit: (-0.05, -0.1, 0.0)
+-- on - placebo: resolved per run (0.67, -2.0, 3.67); sign-flip (p, tasks that differ) (0.828, 7)
+     peak_context_tokens: (4555.8, 522.85, 8356.52)
+     wall_s: (28.33, -66.13, 113.42)
+     tool_calls: (-0.15, -4.97, 4.15)
+     function_hit: (0.03, -0.1, 0.17)
+     localization_hit: (0.0, -0.1, 0.08)
+-- placebo - off: resolved per run (-1.67, -3.67, 0.0); sign-flip (p, tasks that differ) (0.188, 6)
+     peak_context_tokens: (3158.08, -364.02, 6990.25)
+     wall_s: (83.0, 1.92, 174.6)
+     tool_calls: (4.88, 0.17, 9.85)
+     function_hit: (-0.2, -0.32, -0.08)
+     localization_hit: (-0.05, -0.13, 0.02)
+-- skill - on: resolved per run (0.33, -2.0, 2.67); sign-flip (p, tasks that differ) (1.0, 7)
+     peak_context_tokens: (-16.88, -2943.58, 2662.77)
+     wall_s: (-15.17, -80.23, 49.01)
+     tool_calls: (1.07, -1.38, 3.6)
+     function_hit: (0.08, 0.0, 0.18)
+     localization_hit: (0.0, 0.0, 0.0)
+-- skill - off: resolved per run (-0.67, -2.0, 0.67); sign-flip (p, tasks that differ) (0.625, 4)
+     peak_context_tokens: (7697.0, 4995.32, 10608.02)
+     wall_s: (96.16, 42.65, 153.9)
+     tool_calls: (5.8, 3.03, 8.63)
+     function_hit: (-0.08, -0.22, 0.05)
+     localization_hit: (-0.05, -0.1, 0.0)
+-- O1 - on: resolved per run (-1.33, -3.5, 0.67); sign-flip (p, tasks that differ) (0.312, 7)
+     peak_context_tokens: (-1297.24, -4844.14, 1979.94)
+     wall_s: (-26.01, -98.07, 44.43)
+     tool_calls: (-1.32, -4.98, 2.3)
+     function_hit: (0.22, 0.01, 0.43)
+     localization_hit: (0.17, 0.03, 0.33)
+-- O1 - off: resolved per run (-2.33, -5.17, 0.0); sign-flip (p, tasks that differ) (0.125, 6)
+     peak_context_tokens: (6416.64, 3158.19, 9531.12)
+     wall_s: (85.32, 31.42, 141.91)
+     tool_calls: (3.42, 0.68, 6.08)
+     function_hit: (0.05, -0.13, 0.25)
+     localization_hit: (0.12, 0.02, 0.25)
+
+== D. Task by arm: runs resolved
+task                  off       on    skill  placebo       O1
+fastapi_13713           0        0        0        0        0
+fastapi_14303           3        3        3        2        1
+fastapi_14430           0        0        0        0        0
+fastapi_14455           1        1        0        0        1
+fastapi_14463           2        2        3        3        0
+fastapi_14485           0        0        0        0        0
+fastapi_14605           0        0        0        0        0
+fastapi_14978           0        0        0        0        0
+fastapi_14986           0        0        0        0        0
+fastapi_5077            0        0        0        0        0
+httpx_3672              0        0        0        0        0
+requests_6644           1        3        1        0        1
+requests_7309           3        2        3        2        2
+rich_2725               3        0        2        1        0
+rich_3006               3        1        2        3        1
+rich_3052               0        0        0        0        0
+rich_3471               0        0        0        0        0
+rich_3480               0        0        0        0        0
+rich_3675               0        0        0        0        0
+rich_3676               0        1        0        0        0
+off: Pass@3=7 All@3=4
+on: Pass@3=7 All@3=2
+skill: Pass@3=6 All@3=3
+placebo: Pass@3=5 All@3=2
+O1: Pass@2=5 All@2=1
+tasks solved in at least one of the 12 E4 runs: 8; never: 12
+tasks solved in at least one of the 5 all-20 31B runs: 11; of the E4B-never tasks, 31B solved ['fastapi_14430', 'fastapi_14485', 'fastapi_14605', 'fastapi_5077', 'rich_3480']
+
+== E. Size of tool results, characters
+off: total/task=26014 graph/task=0 graph_share=0.0% read_file calls=292 chars/task=16194
+on: total/task=56344 graph/task=17117 graph_share=30.4% read_file calls=470 chars/task=32934
+    search_similar_code: calls=205 ok=205 median_chars=6110
+    get_code_neighbors: calls=6 ok=6 median_chars=445.5
+    get_code_subgraph: calls=1 ok=1 median_chars=147
+skill: total/task=50362 graph/task=10317 graph_share=20.5% read_file calls=479 chars/task=32294
+    search_similar_code: calls=161 ok=161 median_chars=4338
+    get_code_neighbors: calls=6 ok=6 median_chars=176.5
+placebo: total/task=44696 graph/task=501 graph_share=1.1% read_file calls=600 chars/task=39277
+    search_similar_code: calls=130 ok=0 median_chars=227.0
+    get_code_neighbors: calls=2 ok=0 median_chars=223.0
+O1: total/task=51153 graph/task=10052 graph_share=19.7% read_file calls=337 chars/task=36363
+    search_similar_code: calls=72 ok=72 median_chars=6082.5
+    get_code_neighbors: calls=5 ok=5 median_chars=1151
+
+== F. Kaggle vLLM, compaction on, 5 min / 60 calls, 13 of 20 scoreable, before the src/ notebook fix
+31B off: runs=1 scores=[5] mean=5 sd=None range=5-5
+    task_runs=20 graph_calls=0 of 594 (0.0%) per_task=0.00 file_hit=0.95 function_hit=0.90 phi(function_hit,resolved)=-0.19 task_runs_with_graph_call=0
+    peak_ctx_median=14862.0 over_26624=0 wall_mean=263s calls_median=27.5 edit_failures=34 of 100 (34%) stops={'timeout': 8, 'submit': 12}
+    tool_usage={'read_file': 170, 'run_command': 260, 'edit_file': 100, 'write_file': 25, 'submit_patch': 38, 'get_status': 1}
+31B on: runs=1 scores=[5] mean=5 sd=None range=5-5
+    task_runs=20 graph_calls=10 of 541 (1.8%) per_task=0.50 file_hit=1.00 function_hit=0.95 phi(function_hit,resolved)=-0.4 task_runs_with_graph_call=9
+    peak_ctx_median=15022.5 over_26624=1 wall_mean=262s calls_median=28.5 edit_failures=17 of 59 (29%) stops={'timeout': 9, 'submit': 9, 'ended': 2}
+    tool_usage={'read_file': 186, 'run_command': 244, 'edit_file': 59, 'write_file': 33, 'search_similar_code': 9, 'submit_patch': 9, 'get_code_neighbors': 1}
+31B on + skill: runs=1 scores=[5] mean=5 sd=None range=5-5
+    task_runs=20 graph_calls=8 of 611 (1.3%) per_task=0.40 file_hit=1.00 function_hit=1.00 phi(function_hit,resolved)=None task_runs_with_graph_call=7
+    peak_ctx_median=14923.5 over_26624=0 wall_mean=269s calls_median=28.5 edit_failures=41 of 83 (49%) stops={'timeout': 12, 'submit': 7, 'ended': 1}
+    tool_usage={'load_skill': 6, 'run_command': 268, 'read_file': 211, 'write_file': 27, 'edit_file': 83, 'get_code_neighbors': 1, 'search_similar_code': 7, 'submit_patch': 8}
+12B on (same files as 31B on): runs=1 scores=[4] mean=4 sd=None range=4-4
+    task_runs=20 graph_calls=19 of 743 (2.6%) per_task=0.95 file_hit=1.00 function_hit=1.00 phi(function_hit,resolved)=None task_runs_with_graph_call=12
+    peak_ctx_median=15397.5 over_26624=0 wall_mean=306s calls_median=36.5 edit_failures=23 of 53 (43%) stops={'timeout': 15, 'ended': 4, 'submit': 1}
+    tool_usage={'run_command': 212, 'read_file': 316, 'search_similar_code': 16, 'edit_file': 53, 'write_file': 142, 'submit_patch': 1, 'get_code_neighbors': 3}
+E4B on (same files as 31B on): runs=1 scores=[3] mean=3 sd=None range=3-3
+    task_runs=20 graph_calls=52 of 266 (19.5%) per_task=2.60 file_hit=0.85 function_hit=0.45 phi(function_hit,resolved)=0.18 task_runs_with_graph_call=16
+    peak_ctx_median=14788.5 over_26624=0 wall_mean=101s calls_median=10.5 edit_failures=31 of 61 (51%) stops={'submit': 20}
+    tool_usage={'search_similar_code': 47, 'read_file': 98, 'edit_file': 61, 'submit_patch': 22, 'run_command': 30, 'write_file': 3, 'get_code_subgraph': 3, 'get_code_neighbors': 2}
+
+== G. Later 31B runs, Kaggle vLLM, before the src/ notebook fix (20 scoreable unless stated)
+8 min / 28 calls, tools on, 13 scoreable: runs=2 scores=[7, 6] mean=6.5 sd=0.71 range=6-7
+    task_runs=40 graph_calls=14 of 1107 (1.3%) per_task=0.35 file_hit=0.97 function_hit=0.93 phi(function_hit,resolved)=-0.01 task_runs_with_graph_call=11
+    peak_ctx_median=15408.5 over_26624=1 wall_mean=281s calls_median=28.5 edit_failures=40 of 118 (34%) stops={'submit': 37, 'ended': 1, 'timeout': 2}
+    tool_usage={'read_file': 359, 'run_command': 460, 'write_file': 45, 'submit_patch': 109, 'edit_file': 118, 'search_similar_code': 12, 'get_status': 2, 'get_code_neighbors': 2}
+baseline20, 8 min / 28, tools on: runs=1 scores=[8] mean=8 sd=None range=8-8
+    task_runs=20 graph_calls=4 of 517 (0.8%) per_task=0.20 file_hit=1.00 function_hit=0.95 phi(function_hit,resolved)=0.19 task_runs_with_graph_call=4
+    peak_ctx_median=14831.0 over_26624=1 wall_mean=288s calls_median=26.5 edit_failures=52 of 85 (61%) stops={'timeout': 4, 'submit': 16}
+    tool_usage={'read_file': 163, 'run_command': 228, 'write_file': 21, 'edit_file': 85, 'submit_patch': 16, 'search_similar_code': 4}
+Budget-Fit, 8 min / 28, told not to use: runs=1 scores=[8] mean=8 sd=None range=8-8
+    task_runs=20 graph_calls=0 of 484 (0.0%) per_task=0.00 file_hit=0.95 function_hit=0.95 phi(function_hit,resolved)=-0.28 task_runs_with_graph_call=0
+    peak_ctx_median=14796.5 over_26624=0 wall_mean=294s calls_median=25.0 edit_failures=40 of 92 (43%) stops={'submit': 17, 'timeout': 3}
+    tool_usage={'run_command': 184, 'read_file': 153, 'edit_file': 92, 'submit_patch': 21, 'write_file': 33, 'get_status': 1}
+merge, 8 min / 28, tools removed: runs=1 scores=[7] mean=7 sd=None range=7-7
+    task_runs=20 graph_calls=0 of 444 (0.0%) per_task=0.00 file_hit=1.00 function_hit=0.95 phi(function_hit,resolved)=0.17 task_runs_with_graph_call=0
+    peak_ctx_median=14571.0 over_26624=0 wall_mean=241s calls_median=22.5 edit_failures=12 of 62 (19%) stops={'submit': 19, 'timeout': 1}
+    tool_usage={'run_command': 203, 'read_file': 157, 'edit_file': 62, 'submit_patch': 19, 'get_status': 3}
+merge, 8 min / 40, tools removed: runs=2 scores=[10, 11] mean=10.5 sd=0.71 range=10-11
+    task_runs=40 graph_calls=0 of 1062 (0.0%) per_task=0.00 file_hit=1.00 function_hit=0.95 phi(function_hit,resolved)=0.01 task_runs_with_graph_call=0
+    peak_ctx_median=14622.5 over_26624=0 wall_mean=258s calls_median=25.5 edit_failures=30 of 159 (19%) stops={'submit': 37, 'timeout': 2, 'ended': 1}
+    tool_usage={'run_command': 440, 'read_file': 399, 'edit_file': 159, 'submit_patch': 59, 'get_status': 5}
+
+== H. Other E4B runs (Ollama, 15-min limit)
+kagglefix 60 calls: runs=1 scores=[5] mean=5 sd=None range=5-5
+    task_runs=20 graph_calls=49 of 273 (17.9%) per_task=2.45 file_hit=0.80 function_hit=0.60 phi(function_hit,resolved)=0.24 task_runs_with_graph_call=12
+    peak_ctx_median=16510.0 over_26624=6 wall_mean=326s calls_median=9.0 edit_failures=21 of 54 (39%) stops={'submit': 18, 'timeout': 2}
+    tool_usage={'search_similar_code': 46, 'read_file': 126, 'run_command': 23, 'edit_file': 54, 'submit_patch': 19, 'get_code_neighbors': 2, 'get_code_subgraph': 1, 'write_file': 2}
+kagglefix 28 calls: runs=2 scores=[3, 2] mean=2.5 sd=0.71 range=2-3
+    task_runs=40 graph_calls=107 of 559 (19.1%) per_task=2.67 file_hit=0.90 function_hit=0.60 phi(function_hit,resolved)=0.31 task_runs_with_graph_call=32
+    peak_ctx_median=18819.5 over_26624=11 wall_mean=267s calls_median=11.5 edit_failures=65 of 116 (56%) stops={'submit': 38, 'max_tool_calls': 2}
+    tool_usage={'search_similar_code': 100, 'read_file': 263, 'edit_file': 116, 'submit_patch': 38, 'get_code_neighbors': 5, 'get_code_subgraph': 2, 'run_command': 32, 'write_file': 3}
+merge, tools removed, 15 min: runs=2 scores=[4, 6] mean=5 sd=1.41 range=4-6
+    task_runs=40 graph_calls=0 of 460 (0.0%) per_task=0.00 file_hit=0.85 function_hit=0.75 phi(function_hit,resolved)=0.33 task_runs_with_graph_call=0
+    peak_ctx_median=10413.0 over_26624=0 wall_mean=211s calls_median=10.0 edit_failures=49 of 103 (48%) stops={'submit': 40}
+    tool_usage={'run_command': 172, 'read_file': 143, 'edit_file': 103, 'submit_patch': 40, 'git diff --stat | head -n 10\n<|channel>thought\nI have confirmed the change and the tests passed. I will now submit the patch.\n<channel|><|tool_call>call:submit_patch': 1, 'get_status': 1}
+E4 off + scorer compaction: runs=1 scores=[3] mean=3 sd=None range=3-3
+    task_runs=20 graph_calls=0 of 380 (0.0%) per_task=0.00 file_hit=0.85 function_hit=0.75 phi(function_hit,resolved)=0.24 task_runs_with_graph_call=0
+    peak_ctx_median=14509.0 over_26624=0 wall_mean=315s calls_median=15.5 edit_failures=50 of 100 (50%) stops={'submit': 19, 'timeout': 1}
+    tool_usage={'run_command': 116, 'read_file': 115, 'edit_file': 100, 'write_file': 29, 'submit_patch': 19, 'read_command': 1}
+merge + scorer compaction: runs=1 scores=[5] mean=5 sd=None range=5-5
+    task_runs=20 graph_calls=0 of 241 (0.0%) per_task=0.00 file_hit=0.80 function_hit=0.75 phi(function_hit,resolved)=0.33 task_runs_with_graph_call=0
+    peak_ctx_median=11257.0 over_26624=0 wall_mean=170s calls_median=10.5 edit_failures=14 of 48 (29%) stops={'submit': 20}
+    tool_usage={'run_command': 100, 'read_file': 73, 'edit_file': 48, 'submit_patch': 20}
+
+== I. Leaderboard (public, 58 tasks; one draw each)
+57553747 | 31B | kagglefix, 5 min / 60 calls | on | 0.08 | 20261022-e4b-kagglefix-s0/notes.md
+57639721 | 31B | 8 min / 28 calls | on | 0.13 | 20261025-31b-kaggle-budget8m28-s1/notes.md
+57907569 | 31B | merge, 8 min / 40 calls | removed | 0.20 (12 of 58) | 20261101-31b-kaggle-merge40-s0/notes.md
+58013493 | 31B | same files as 57907569, resubmitted | removed | 0.12 (7 of 58) | 20261101-31b-kaggle-merge40-s0/notes.md
+57867361 | E4B | E4 off, 5 min / 60 calls | removed | 0.03 (2 of 58) | 20261101-e4b-lb-e4off/notes.md
+57974203 | E4B | merge, 5 min / 60 calls | removed | 0.05 (3 of 58) | 20261103-e4b-lb-merge/notes.md
+
+== J. Edit failures and repeat spread
+20261028-31b-kaggle-baseline20-s0: resolved=8 edit_failure=0.6118 calls_median=26.5 timeouts=0.2
+20261028-31b-kaggle-budgetfit-s0: resolved=8 edit_failure=0.4348 calls_median=25.0 timeouts=0.15
+20261101-31b-kaggle-merge-s0: resolved=7 edit_failure=0.1935 calls_median=22.5 timeouts=0.05
+20261101-31b-kaggle-merge40-s0: resolved=10 edit_failure=0.2025 calls_median=23.5 timeouts=0.05
+20261101-31b-kaggle-merge40-s1: resolved=11 edit_failure=0.175 calls_median=26.0 timeouts=0.05
+20261024-e4b-e4off-s0: resolved=5 edit_failure=0.5116 calls_median=12.5 timeouts=0.05
+20261024-e4b-e4off-s1: resolved=6 edit_failure=0.5775 calls_median=10.5 timeouts=0.0
+20261024-e4b-e4off-s2: resolved=5 edit_failure=0.443 calls_median=16.5 timeouts=0.0
+20261101-e4b-merge-s0: resolved=4 edit_failure=0.4909 calls_median=10.5 timeouts=0.0
+20261101-e4b-merge-s1: resolved=6 edit_failure=0.4583 calls_median=10.0 timeouts=0.0
+
+== M. Function hit against tasks resolved, across E4B laptop runs (Pearson r; Figure 2)
+all: runs=17 r=-0.01
+without O1: runs=15 r=0.30
+
+== L. GPU readings during O1 repeat 1 (part 1, then part 2 on a new BIOS and driver)
+part 1, 15 tasks: busy_readings=892 of 1061 gpu_c_median=88.0 max=98.0 limited_by_heat_or_power_cap=886 (99.3%) heat_flags=644 (72.2%) power_cap_no_heat_flag=242 (27.1%) software_thermal=71.7% hardware_thermal_readings=11
+    heat-limited readings=631 power_w_median=36.99 clock_mhz_median=1365 gpu_c_median=88.0
+    power-cap stretch 15:24:40-15:50:04: readings=243 power_w_median=24.98 range=9.89-27.52 clock_mhz_median=525 gpu_c_median=73.0; busy outside it with a heat flag=642 of 652
+part 2, 5 tasks: busy_readings=169 of 256 gpu_c_median=88.5 max=94.09 limited_by_heat_or_power_cap=168 (99.4%) heat_flags=168 (99.4%) power_cap_no_heat_flag=0 (0.0%) software_thermal=98.8% hardware_thermal_readings=2
+    heat-limited readings=166 power_w_median=39.36 clock_mhz_median=1440.0 gpu_c_median=88.485
+old log, last 23 min of load: busy_readings=199 of 242 gpu_c_median=88.0 max=96.0 limited_by_heat_or_power_cap=198 (99.5%) heat_flags=197 (99.0%) power_cap_no_heat_flag=1 (0.5%) software_thermal=98.5% hardware_thermal_readings=4
+    heat-limited readings=193 power_w_median=36.88 clock_mhz_median=1365 gpu_c_median=88.0
+part 1: tasks=15 resolved=3 minutes=100.4 same_tasks_in_first_O1_run=92.0 timed_out=['fastapi_14605']
+part 2: tasks=5 resolved=1 minutes=24.2 same_tasks_in_first_O1_run=22.9 timed_out=[]
+
+== K. Timing on 200 task runs (harness/scripts/edit_timing*.py on raw/traces)
+skipped: data/competition/tasks.jsonl not present

@@ -1,0 +1,5 @@
+{"instance_id": "rich_3480", "repo": "Textualize/rich", "resolved": false, "agent_patch_size": 365, "test_exit_code": 137, "duration_seconds": 537.82, "error": null, "tool_calls": 20, "total_llm_calls": 23, "task_index": 1}
+{"instance_id": "rich_3471", "repo": "Textualize/rich", "resolved": false, "agent_patch_size": 2725, "test_exit_code": 1, "duration_seconds": 292.04, "error": null, "tool_calls": 18, "total_llm_calls": 20, "task_index": 2}
+{"instance_id": "rich_3052", "repo": "Textualize/rich", "resolved": false, "agent_patch_size": 1078, "test_exit_code": 1, "duration_seconds": 178.5, "error": null, "tool_calls": 13, "total_llm_calls": 15, "task_index": 3}
+{"instance_id": "rich_2725", "repo": "Textualize/rich", "resolved": false, "agent_patch_size": 628, "test_exit_code": 1, "duration_seconds": 238.01, "error": null, "tool_calls": 9, "total_llm_calls": 11, "task_index": 4}
+{"instance_id": "rich_3006", "repo": "Textualize/rich", "resolved": true, "agent_patch_size": 558, "test_exit_code": 0, "duration_seconds": 208.37, "error": null, "tool_calls": 8, "total_llm_calls": 10, "task_index": 5}
